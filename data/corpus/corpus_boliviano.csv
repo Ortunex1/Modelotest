@@ -1,0 +1,3 @@
+id,texto,vector,identidad_suplantada,etiqueta,fuente,fecha
+1,"Estimado cliente su cuenta sera bloqueada ingrese aqui para validar sus datos xxxxx",texto,banco,fraudulento,WhatsApp,2026-08-12
+2,"Hola te confirmo la reunion de manana a las 10 en la oficina",texto,otro,legitimo,SMS,2026-08-12

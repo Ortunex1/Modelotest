@@ -1,0 +1,26 @@
+# Datos
+pandas
+numpy
+
+# Baseline y métricas
+scikit-learn
+
+# Motor de texto (BETO / deep learning)
+torch
+transformers
+
+# PLN
+nltk
+spacy
+
+# URL / QR
+opencv-python
+pyzbar
+qrcode[pil]
+
+# Visualización
+matplotlib
+seaborn
+
+# Notebooks
+jupyter
