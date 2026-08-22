@@ -41,6 +41,7 @@ sis/
 ├── modelos/            # pesos entrenados (NO a Git)
 ├── resultados/         # métricas y figuras del Capítulo IV
 ├── scripts/
+│   ├── ocr.py          # imagen (captura) -> texto, con Tesseract (Fase 1)
 │   ├── anonimizar.py   # quita datos personales del corpus (Fase 1)
 │   └── kappa.py        # acuerdo entre etiquetadores, kappa de Cohen (Fase 1)
 ├── docs/

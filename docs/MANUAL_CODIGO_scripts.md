@@ -164,3 +164,63 @@ python scripts/kappa.py etiquetados.csv etiqueta_a etiqueta_b   # calcula el kap
 🎓 **Cómo explicarlo:** "Dos personas etiquetan el mismo lote por separado; el kappa mide
 su acuerdo. Si es bajo, significa que mis criterios de etiquetado no son claros y debo
 mejorar el manual antes de continuar."
+
+---
+
+# Parte C — `ocr.py`
+
+## Concepto base
+
+- **OCR** (Reconocimiento Óptico de Caracteres) = sacar el **texto** de una **imagen**.
+- Sirve para las capturas de estafas que recopilas de la web/WhatsApp: el modelo aprende
+  de texto, no de fotos, así que primero hay que extraer el texto.
+- Usa **Tesseract** (el motor de OCR) a través de `pytesseract` (el puente de Python).
+
+## Localizar Tesseract
+
+```python
+_RUTAS_TESSERACT = [r"C:\Program Files\Tesseract-OCR\tesseract.exe", ...]
+for _r in _RUTAS_TESSERACT:
+    if Path(_r).exists():
+        pytesseract.pytesseract.tesseract_cmd = _r
+        break
+```
+- Busca el programa Tesseract en las rutas típicas de Windows y se lo indica a `pytesseract`.
+
+## Leer una imagen
+
+```python
+def leer_imagen(ruta, idioma="spa"):
+    img = cv2.imread(str(ruta))
+    gris = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    texto = pytesseract.image_to_string(gris, lang=idioma)
+    return " ".join(texto.split())
+```
+- `cv2.imread(...)` → abre la imagen.
+- `cv2.cvtColor(..., COLOR_BGR2GRAY)` → la pasa a **escala de grises** (mejora la lectura).
+- `pytesseract.image_to_string(gris, lang="spa")` → extrae el texto **en español**.
+- `" ".join(texto.split())` → junta todo en una línea limpia (sin saltos ni espacios dobles).
+
+## Procesar una carpeta
+
+```python
+def procesar_carpeta(carpeta, salida, idioma="spa"):
+    imagenes = sorted(p for p in carpeta.iterdir() if p.suffix.lower() in EXTENSIONES)
+    for img in imagenes:
+        texto = leer_imagen(img, idioma)
+        filas.append({"archivo": img.name, "texto": texto})
+    # ... escribe un CSV con columnas (archivo, texto)
+```
+- Recorre todas las imágenes de una carpeta, les saca el texto y arma un CSV.
+- Ese CSV es la entrada para `anonimizar.py`.
+
+## Cómo se usa
+
+```bash
+python scripts/ocr.py captura.jpg                            # una imagen -> imprime el texto
+python scripts/ocr.py carpeta/ data/crudo/ocr.csv           # carpeta -> CSV
+```
+
+🎓 **Cómo explicarlo:** "Las capturas se convierten a texto con OCR antes de entrar al
+corpus. Uso Tesseract con el idioma español y paso la imagen a escala de grises para
+mejorar la precisión de la lectura."

@@ -26,7 +26,8 @@ se llevan a `data/anonimizado/corpus.csv`.
 
 ## Después de recibir respuestas
 
-1. **OCR** de las capturas → texto (`pytesseract`, idioma `spa`).
+1. **OCR** de las capturas → texto (idioma `spa`).
+   → `python scripts/ocr.py carpeta_capturas/ data/crudo/ocr.csv`
 2. **Anonimización**: fuera nombres, teléfonos, cédulas, cuentas y montos
    (expresiones regulares + revisión manual).
    → `python scripts/anonimizar.py data/crudo/mensajes.csv data/anonimizado/corpus.csv`
