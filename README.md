@@ -3,53 +3,59 @@
 Smishing, phishing y quishing mediante aprendizaje profundo.
 
 **Postulante:** Jose Manuel Ortuño Alanoca — UPEA, Ingeniería de Sistemas
+**Documento guía oficial:** *Ruta al Detector Multicanal* (perfil de tesis).
 
 ## Idea general
 
-El sistema tiene **dos motores** que alimentan un **módulo de decisión**:
+Dos **motores** que alimentan un **módulo de decisión** con tres niveles:
+**Seguro / Sospechoso / Peligroso**.
 
-1. **Motor de texto (BETO)** — clasifica mensajes (smishing) en español. *Aporte principal.*
-2. **Motor de URL** — clasifica enlaces (phishing) por sus características.
-3. **QR (quishing)** — se decodifica a una URL y se apoya en el motor de URL.
-4. **Módulo de decisión + prototipo** — integra todo y emite: **Seguro / Sospechoso / Peligroso**. *(Al final.)*
+1. **Motor de texto (BETO)** — mensajes (smishing) en español. *Aporte principal.*
+2. **Motor de enlaces (URL)** — phishing por características de la URL.
+3. **QR (quishing)** — se decodifica a URL y entra al motor de enlaces (no es un modelo aparte).
 
-## Metodología: CRISP-DM
+## Las 6 fases (CRISP-DM)
 
-| Fase | Estado |
-|---|---|
-| 1. Comprensión del problema | Hecho |
-| 2. Comprensión y preparación de datos | **En curso** |
-| 3. Modelado | Siguiente |
-| 4. Evaluación | Pendiente |
-| 5. Despliegue (prototipo) | Pendiente |
+| Fase | Semanas | Estado |
+|---|---|---|
+| 0. Entorno y esqueleto | 1 | **Hecho** |
+| 1. El corpus (aporte principal) | 1–12, en paralelo | En curso |
+| 2. Motor de enlaces (URL) | 3–8 | Siguiente |
+| 3. Motor de texto (BETO) | 9–16 | Pendiente |
+| 4. Evaluación y contraste | 17–21 | Pendiente |
+| 5. Prototipo de alerta | 20–24 | Pendiente |
 
 ## Estructura del repositorio
 
 ```
 sis/
 ├── data/
-│   ├── raw/          # datasets públicos descargados (NO se suben a Git)
-│   ├── processed/    # datos limpios y listos para entrenar
-│   └── corpus/       # corpus boliviano propio (nuestro aporte)
-├── notebooks/        # exploración y entrenamiento (Colab-compatible)
-├── src/
-│   ├── text_engine/  # motor de texto (BETO)
-│   ├── url_engine/   # motor de URL + baseline
-│   └── qr_engine/    # lectura/generación de QR
-├── models/           # pesos entrenados (NO se suben a Git)
-├── reports/          # métricas, matrices de confusión, figuras
-└── requirements.txt
+│   ├── crudo/          # lo que llega de la ficha + datasets públicos (NO a Git)
+│   ├── anonimizado/    # corpus.csv + ficha + manual de etiquetado (SÍ a Git)
+│   └── particiones/    # train.csv, val.csv, test.csv (NO a Git)
+├── notebooks/
+│   ├── 00_exploracion.ipynb   # baseline tonto (Fase 0) ✔
+│   ├── 01_url.ipynb           # motor de enlaces (Fase 2)
+│   ├── 02_texto.ipynb         # BETO (Fase 3)
+│   └── 03_evaluacion.ipynb    # McNemar, F1, matriz (Fase 4)
+├── modelos/            # pesos entrenados (NO a Git)
+├── resultados/         # métricas y figuras del Capítulo IV
+├── requirements.txt
+└── .gitignore
 ```
 
-## Orden de trabajo
+## Reglas que no se rompen (disciplina)
 
-1. **Datos**: descargar datasets de URL y SMS + construir el corpus boliviano.
-2. **Baseline**: Regresión Logística y Naive Bayes (para comparar).
-3. **Motor de texto (BETO)**: el aporte central.
-4. **Motor de URL**, luego **QR**.
-5. **Prototipo con alertas** (al final).
+- El conjunto de **prueba** se abre **una sola vez**, al final.
+- **Semilla aleatoria fija** en cada partición y entrenamiento (reproducibilidad).
+- **Bitácora** de cada experimento: fecha, configuración, métricas.
+- **Nunca** subir datos sin anonimizar a GitHub ni a ningún servicio público.
+- Guardar las **predicciones**, no solo las métricas (McNemar las necesita fila por fila).
+- **Escribir mientras se construye**: cada fase cerrada es una sección de la tesis.
 
 ## Entorno
 
 - **Datos y baseline**: local (pandas, scikit-learn).
-- **Entrenar BETO**: Google Colab (GPU gratuita) o GPU local si está disponible.
+- **Entrenar BETO**: Google Colab con GPU (o GPU local si está disponible).
+- Instalar dependencias: `pip install -r requirements.txt`
+  (para OCR, además instalar Tesseract-OCR con idioma `spa`).

@@ -2,8 +2,9 @@
 pandas
 numpy
 
-# Baseline y métricas
+# Baseline, métricas y prueba estadística
 scikit-learn
+statsmodels          # prueba de McNemar (Fase 4)
 
 # Motor de texto (BETO / deep learning)
 torch
@@ -17,6 +18,13 @@ spacy
 opencv-python
 pyzbar
 qrcode[pil]
+Pillow
+
+# OCR de capturas (Fase 1)
+pytesseract          # requiere instalar aparte Tesseract-OCR + idioma español (spa)
+
+# Prototipo de alerta (Fase 5)
+gradio               # o streamlit
 
 # Visualización
 matplotlib

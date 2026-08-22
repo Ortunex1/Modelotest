@@ -1,11 +1,14 @@
-# Datos y modelos pesados (no subir a Git)
-data/raw/*
-data/processed/*
-models/*
+# Datos crudos y particiones (no se suben a Git)
+data/crudo/*
+data/particiones/*
+modelos/*
 !**/.gitkeep
 
-# El corpus propio SÍ se versiona (es tu aporte)
-!data/corpus/
+# El corpus anonimizado y su documentación SÍ se versionan
+!data/anonimizado/
+
+# NUNCA subir datos sin anonimizar
+# (crudo/ ya está ignorado arriba; regla ética, no técnica)
 
 # Python
 __pycache__/
