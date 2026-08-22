@@ -53,7 +53,13 @@ sis/
 ## Manuales de estudio
 
 - [Manual de datos y pruebas](docs/MANUAL_DATOS_Y_PRUEBAS.md) — flujo de datos, cómo correr y evaluar.
-- [Manual de código de BETO](docs/MANUAL_CODIGO_02_texto.md) — explicación línea por línea.
+
+Código explicado **línea por línea** (para estudiar y defender):
+- [`00_exploracion`](docs/MANUAL_CODIGO_00_exploracion.md) — baseline tonto.
+- [`01_url`](docs/MANUAL_CODIGO_01_url.md) — baseline de URL (LogReg / Naive Bayes).
+- [`01b_url_cnn`](docs/MANUAL_CODIGO_01b_url_cnn.md) — CNN de caracteres (deep learning).
+- [`02_texto`](docs/MANUAL_CODIGO_02_texto.md) — BETO (deep learning, texto).
+- [`scripts`](docs/MANUAL_CODIGO_scripts.md) — anonimización y kappa de Cohen.
 
 ## Reglas que no se rompen (disciplina)
 
