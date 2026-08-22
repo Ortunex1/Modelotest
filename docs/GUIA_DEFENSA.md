@@ -128,6 +128,19 @@ Sospechoso o Peligroso**, con umbrales que yo justifico.
 Porque una URL no tiene palabras, tiene **subcadenas sospechosas** (como `-login-` o `.xyz`).
 Los n-gramas de caracteres capturan justamente esos patrones.
 
+### ¿Tu sistema protege contra el envenenamiento de DNS o ataques de red (TCP/UDP)?
+No, y es a propósito. Mi detector trabaja en la **capa de aplicación**: analiza el **contenido**
+de mensajes, enlaces (HTTP/HTTPS) y QR para decidir si parecen estafa. El envenenamiento de
+**DNS** o **ARP**, y los ataques sobre **TCP/UDP**, ocurren en la **capa de red/transporte** y
+se combaten con defensas de infraestructura (DNSSEC, certificados, firewalls, IDS), no con un
+clasificador de texto. Por eso quedan **fuera del alcance** de la tesis; es una delimitación
+deliberada, no un olvido.
+
+### Entonces, ¿qué pasa con enlaces que no son HTTP/HTTPS (tel:, mailto:, etc.)?
+Un mensaje de estafa puede traer esquemas como `tel:`, `sms:` o `mailto:`. Como el **motor de
+texto (BETO)** lee el mensaje completo, esos casos los capta igual por el contenido. El **motor
+de URL** se enfoca en HTTP/HTTPS porque es lo estándar del phishing y de los datasets públicos.
+
 ---
 
 ## Sobre las limitaciones (te lo van a preguntar)
