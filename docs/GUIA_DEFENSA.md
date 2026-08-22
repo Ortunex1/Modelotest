@@ -141,6 +141,25 @@ Un mensaje de estafa puede traer esquemas como `tel:`, `sms:` o `mailto:`. Como 
 texto (BETO)** lee el mensaje completo, esos casos los capta igual por el contenido. El **motor
 de URL** se enfoca en HTTP/HTTPS porque es lo estándar del phishing y de los datasets públicos.
 
+### ¿Cómo detecta tu sistema un QR que lleva a una URL parecida a la de un banco real?
+Ese es un caso central de **quishing**: el QR se decodifica a una URL que **imita** al banco
+pero es falsa. Mi sistema lo procesa así: QR → se decodifica a URL → la URL entra al motor de
+enlaces. Los enlaces de imitación usan trucos que dejan **huella en los caracteres**:
+- **Typosquatting:** errores tipográficos (`banc0sol.com`, `bancosoI.com` con i mayúscula).
+- **Combosquatting:** agregan palabras (`bancosol-seguro.xyz`, `secure-bancosol.com`).
+- **TLD distinto:** dominios raros (`bancosol.xyz`, `bancosol.info`).
+- **Subdominio engañoso:** `bancosol.verificacion-cuenta.xyz` (el banco es solo el gancho).
+- **Homoglifos:** letras visualmente iguales de otro alfabeto (la `а` cirílica por la `a` latina).
+
+Por eso mi motor de URL trabaja a **nivel de carácter** (n-gramas de caracteres y CNN de
+caracteres), no de palabra: un modelo de palabras no distingue `bancosol` de `banc0sol`, pero
+uno de caracteres **sí** capta esas subcadenas sospechosas. El diseño está pensado justo para
+atrapar estos dominios de imitación.
+
+> Distínguelo del **envenenamiento de DNS**: ese redirige un dominio **legítimo** a un servidor
+> falso a nivel de red (fuera de alcance). Aquí el dominio ya **es** falso y se detecta por su
+> texto (dentro de alcance).
+
 ---
 
 ## Sobre las limitaciones (te lo van a preguntar)
