@@ -29,7 +29,11 @@ se llevan a `data/anonimizado/corpus.csv`.
 1. **OCR** de las capturas → texto (`pytesseract`, idioma `spa`).
 2. **Anonimización**: fuera nombres, teléfonos, cédulas, cuentas y montos
    (expresiones regulares + revisión manual).
+   → `python scripts/anonimizar.py data/crudo/mensajes.csv data/anonimizado/corpus.csv`
+   ⚠️ Los **nombres** requieren revisión manual (o spaCy con `es_core_news_sm`); las
+   regex solo cubren teléfonos, montos, correos y números largos.
 3. **Etiquetado doble** según `MANUAL_ETIQUETADO.md` y cálculo del kappa.
+   → `python scripts/kappa.py etiquetados.csv etiqueta_a etiqueta_b`
 4. Cargar al `corpus.csv` anonimizado.
 
 > Meta Fase 1: `corpus.csv` con al menos **300 filas balanceadas**, el manual y el valor de kappa.

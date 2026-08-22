@@ -40,6 +40,9 @@ sis/
 │   └── 03_evaluacion.ipynb    # McNemar, F1, matriz (Fase 4)
 ├── modelos/            # pesos entrenados (NO a Git)
 ├── resultados/         # métricas y figuras del Capítulo IV
+├── scripts/
+│   ├── anonimizar.py   # quita datos personales del corpus (Fase 1)
+│   └── kappa.py        # acuerdo entre etiquetadores, kappa de Cohen (Fase 1)
 ├── requirements.txt
 └── .gitignore
 ```
