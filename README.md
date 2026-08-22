@@ -43,9 +43,17 @@ sis/
 ├── scripts/
 │   ├── anonimizar.py   # quita datos personales del corpus (Fase 1)
 │   └── kappa.py        # acuerdo entre etiquetadores, kappa de Cohen (Fase 1)
+├── docs/
+│   ├── MANUAL_DATOS_Y_PRUEBAS.md   # cómo cargar datos, correr y probar cada punto
+│   └── MANUAL_CODIGO_02_texto.md   # BETO explicado línea por línea (para estudiar/defender)
 ├── requirements.txt
 └── .gitignore
 ```
+
+## Manuales de estudio
+
+- [Manual de datos y pruebas](docs/MANUAL_DATOS_Y_PRUEBAS.md) — flujo de datos, cómo correr y evaluar.
+- [Manual de código de BETO](docs/MANUAL_CODIGO_02_texto.md) — explicación línea por línea.
 
 ## Reglas que no se rompen (disciplina)
 
