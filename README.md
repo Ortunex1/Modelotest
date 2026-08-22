@@ -22,7 +22,7 @@ Dos **motores** que alimentan un **módulo de decisión** con tres niveles:
 | 1. El corpus (aporte principal) | 1–12, en paralelo | En curso |
 | 2. Motor de enlaces (URL) | 3–8 | Siguiente |
 | 3. Motor de texto (BETO) | 9–16 | Pendiente |
-| 4. Evaluación y contraste | 17–21 | Pendiente |
+| 4. Evaluación y contraste | 17–21 | Notebook listo (`03_evaluacion`) |
 | 5. Prototipo de alerta | 20–24 | Pendiente |
 
 ## Estructura del repositorio
@@ -59,6 +59,7 @@ Código explicado **línea por línea** (para estudiar y defender):
 - [`01_url`](docs/MANUAL_CODIGO_01_url.md) — baseline de URL (LogReg / Naive Bayes).
 - [`01b_url_cnn`](docs/MANUAL_CODIGO_01b_url_cnn.md) — CNN de caracteres (deep learning).
 - [`02_texto`](docs/MANUAL_CODIGO_02_texto.md) — BETO (deep learning, texto).
+- [`03_evaluacion`](docs/MANUAL_CODIGO_03_evaluacion.md) — McNemar, métricas y veredicto (Fase 4).
 - [`scripts`](docs/MANUAL_CODIGO_scripts.md) — anonimización y kappa de Cohen.
 
 ## Reglas que no se rompen (disciplina)
