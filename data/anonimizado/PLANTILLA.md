@@ -25,3 +25,14 @@ Meta: **500–1.500 mensajes fraudulentos** bien etiquetados + una cantidad pare
 ## Fuentes para recolectar
 
 Capturas y reenvíos de WhatsApp/SMS de conocidos, grupos comunitarios, reportes públicos y —si se consigue— datos de la FELCC.
+
+## Corpus sintético (semilla)
+
+`corpus_sintetico.csv` (800 mensajes) se genera con `scripts/generar_corpus_sintetico.py`.
+Es **dato sintético** (variaciones controladas), marcado con `fuente=sintetico`.
+
+Reglas para usarlo bien:
+- **Declararlo en la tesis** como aumento de datos (cuántos y cómo se generaron).
+- Mézclalo con tus datos reales, pero **el sintético va SOLO en el train**.
+- La **validación y el test deben ser mensajes REALES**, para que las métricas sean honestas.
+- Un modelo entrenado solo con sintético aprende las plantillas (F1 ~0.99 engañoso), no el fraude real.

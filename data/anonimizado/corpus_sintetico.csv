@@ -1,0 +1,801 @@
+id,texto,vector,identidad_suplantada,etiqueta,fuente,fecha
+1,Se comunica a los vecinos que el corte de agua sera lunes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+2,Se comunica a los vecinos que el corte de agua sera martes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+3,FELICIDADES! usted gano Bs. 5.000 en efectivo. Reclamelo en envios-retenidos.site antes de en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+4,"Mama te quedaste sin saldo? este es mi nuevo numero. Recargame [MONTO] al [TELEFONO], luego te explico.",texto,otro,fraudulento,sintetico,2026-08-25
+5,Se comunica a los vecinos que el corte de telefonia sera el proximo lunes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+6,Se comunica a los vecinos que el corte de internet sera martes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+7,Promocion exclusiva: usted es el ganador de un viaje todo pagado. Confirme sus datos en premios-online.top/ganador.,texto,premio,fraudulento,sintetico,2026-08-25
+8,"Confirmamos su suscripcion por [MONTO] mensual. Si no la reconoce, cancele en beneficio-estatal.xyz/cobro.",texto,otro,fraudulento,sintetico,2026-08-25
+9,Encomienda pendiente a su nombre. Confirme su direccion y pague [MONTO] aqui: seguro-banca.info/login,texto,paqueteria,fraudulento,sintetico,2026-08-25
+10,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en actualiza-datos.top/cliente en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+11,FELICIDADES! usted gano un bono de compras. Reclamelo en seguro-banca.info/login antes de en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+12,Promocion exclusiva: usted es el ganador de Bs. 5.000 en efectivo. Confirme sus datos en bit.ly/3xKq9a.,texto,premio,fraudulento,sintetico,2026-08-25
+13,FELICIDADES! usted gano Bs. 5.000 en efectivo. Reclamelo en verificacion-cuenta.xyz/acceso antes de hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+14,Se comunica a los vecinos que el corte de luz sera el viernes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+15,la libreria: 20% de descuento este fin de semana en toda la tienda. Te esperamos!,texto,otro,legitimo,sintetico,2026-08-25
+16,ALERTA: detectamos un acceso no autorizado a su cuenta. Confirme su identidad en verificacion-cuenta.xyz/acceso o sera bloqueada.,texto,banco,fraudulento,sintetico,2026-08-25
+17,Se comunica a los vecinos que el corte de internet sera el 15 de este mes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+18,Su turno para tu tramite fue agendado para el viernes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+19,Su paquete de la agencia de encomiendas esta retenido en aduana. Pague [MONTO] en actualiza-datos.top/cliente para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+20,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en premios-online.top/ganador en las proximas 2 horas.,texto,otro,fraudulento,sintetico,2026-08-25
+21,Ha sido premiado con un celular de ultima generacion. Para recibirlo ingrese sus datos en envios-retenidos.site hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+22,Su turno para tu consulta medica fue agendado para martes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+23,"Confirmamos su suscripcion por [MONTO] mensual. Si no la reconoce, cancele en verificacion-cuenta.xyz/acceso.",texto,otro,fraudulento,sintetico,2026-08-25
+24,Se comunica a los vecinos que el corte de agua sera el viernes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+25,Su token de acceso expira en 24 horas. Actualice sus datos en verificacion-cuenta.xyz/acceso para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+26,Su turno para tu tramite fue agendado para manana a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+27,Su turno para tu consulta medica fue agendado para manana a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+28,Su token de acceso expira en las proximas 2 horas. Actualice sus datos en bit.ly/3xKq9a para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+29,No pudimos entregar su envio. Reprograme y pague [MONTO] de reenvio en bit.ly/3xKq9a.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+30,Su turno para la renovacion de tu documento fue agendado para el viernes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+31,Su documento de identidad vence. Renuevelo en linea en bit.ly/3xKq9a antes de hoy.,texto,Estado,fraudulento,sintetico,2026-08-25
+32,Se comunica a los vecinos que el corte de internet sera el 15 de este mes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+33,Gracias por su compra en la libreria. Su pedido llegara el proximo lunes.,texto,otro,legitimo,sintetico,2026-08-25
+34,Su tarjeta fue bloqueada por seguridad. Para reactivarla ingrese a seguro-banca.info/login y verifique su clave.,texto,banco,fraudulento,sintetico,2026-08-25
+35,Se comunica a los vecinos que el corte de gas sera manana de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+36,El pedido que hiciste ya esta listo para recoger en la libreria. Horario de atencion normal.,texto,otro,legitimo,sintetico,2026-08-25
+37,Seleccionado para entrevista de trabajo. Confirme sus datos y pague el examen medico [MONTO] en verificacion-cuenta.xyz/acceso.,texto,empleo,fraudulento,sintetico,2026-08-25
+38,"Buenas, confirmo que recibi el pago. Muchas gracias, que tengas buen dia.",texto,otro,legitimo,sintetico,2026-08-25
+39,el minimarket del barrio: 20% de descuento este fin de semana en toda la tienda. Te esperamos!,texto,otro,legitimo,sintetico,2026-08-25
+40,Su turno para tu inscripcion fue agendado para el 15 de este mes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+41,Se comunica a los vecinos que el corte de internet sera lunes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+42,Se comunica a los vecinos que el corte de telefonia sera el viernes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+43,Se comunica a los vecinos que el corte de gas sera lunes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+44,Su documento de identidad vence. Renuevelo en linea en actualiza-datos.top/cliente antes de antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+45,Su turno para tu inscripcion fue agendado para manana a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+46,"Estimado cliente, su cuenta sera suspendida por seguridad. Valide sus datos en mi-entidad-segura.com/validar de inmediato.",texto,banco,fraudulento,sintetico,2026-08-25
+47,Su numero fue seleccionado para un viaje todo pagado. Pague [MONTO] de envio y reciba su premio: verificacion-cuenta.xyz/acceso,texto,premio,fraudulento,sintetico,2026-08-25
+48,Usted tiene un bono de [MONTO] disponible. Cobrelo en seguro-banca.info/login con su numero de carnet manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+49,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en beneficio-estatal.xyz/cobro en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+50,Se comunica a los vecinos que el corte de internet sera lunes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+51,Se comunica a los vecinos que el corte de agua sera el proximo lunes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+52,Su clave digital vencio. Genere una nueva en empleo-express.info/registro antes de hoy para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+53,Usted tiene un bono de [MONTO] disponible. Cobrelo en soporte-cuenta.info/urgente con su numero de carnet hoy.,texto,Estado,fraudulento,sintetico,2026-08-25
+54,Promocion exclusiva: usted es el ganador de un celular de ultima generacion. Confirme sus datos en seguro-banca.info/login.,texto,premio,fraudulento,sintetico,2026-08-25
+55,Se comunica a los vecinos que el corte de gas sera manana de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+56,Reunion de la directiva reprogramada para el viernes. Confirmen asistencia por favor.,texto,otro,legitimo,sintetico,2026-08-25
+57,Su paquete de el courier esta retenido en aduana. Pague [MONTO] en actualiza-datos.top/cliente para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+58,Gracias por su compra en la tienda. Su pedido llegara el proximo lunes.,texto,otro,legitimo,sintetico,2026-08-25
+59,Su turno para tu tramite fue agendado para lunes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+60,Su token de acceso expira manana. Actualice sus datos en seguro-banca.info/login para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+61,Se comunica a los vecinos que el corte de gas sera el 15 de este mes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+62,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en soporte-cuenta.info/urgente antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+63,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en beneficio-estatal.xyz/cobro antes de las 18:00.,texto,otro,fraudulento,sintetico,2026-08-25
+64,Su turno para tu tramite fue agendado para el viernes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+65,Ha sido premiado con una motocicleta. Para recibirlo ingrese sus datos en beneficio-estatal.xyz/cobro manana.,texto,premio,fraudulento,sintetico,2026-08-25
+66,Usted tiene un bono de [MONTO] disponible. Cobrelo en actualiza-datos.top/cliente con su numero de carnet en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+67,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en envios-retenidos.site manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+68,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en beneficio-estatal.xyz/cobro manana.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+69,Devolucion de impuestos aprobada: [MONTO]. Ingrese sus datos bancarios en gob-tramite.xyz/bono para recibirla.,texto,Estado,fraudulento,sintetico,2026-08-25
+70,FELICIDADES! usted gano un bono de compras. Reclamelo en soporte-cuenta.info/urgente antes de manana.,texto,premio,fraudulento,sintetico,2026-08-25
+71,Su turno para tu tramite fue agendado para el 15 de este mes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+72,Gracias por su compra en el comercio. Su pedido llegara manana.,texto,otro,legitimo,sintetico,2026-08-25
+73,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en aduana-pagos.site/tramite manana.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+74,Su turno para tu consulta medica fue agendado para martes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+75,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en mi-entidad-segura.com/validar en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+76,Se comunica a los vecinos que el corte de luz sera el proximo lunes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+77,Su turno para la renovacion de tu documento fue agendado para el viernes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+78,Su paquete de la agencia de encomiendas esta retenido en aduana. Pague [MONTO] en empleo-express.info/registro para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+79,Se comunica a los vecinos que el corte de internet sera el 15 de este mes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+80,Recordatorio: tu cita medica es el 15 de este mes a las 14:30. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+81,Su paquete de el courier esta retenido en aduana. Pague [MONTO] en premios-online.top/ganador para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+82,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en empleo-express.info/registro hoy.,texto,otro,fraudulento,sintetico,2026-08-25
+83,Promocion exclusiva: usted es el ganador de un bono de compras. Confirme sus datos en seguro-banca.info/login.,texto,premio,fraudulento,sintetico,2026-08-25
+84,Su token de acceso expira antes de las 18:00. Actualice sus datos en envios-retenidos.site para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+85,Su factura de luz ya esta disponible. Vencimiento lunes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+86,Su factura de internet ya esta disponible. Vencimiento el proximo lunes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+87,Su turno para tu consulta medica fue agendado para el viernes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+88,Reunion de la directiva reprogramada para el proximo lunes. Confirmen asistencia por favor.,texto,otro,legitimo,sintetico,2026-08-25
+89,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en envios-retenidos.site hoy.,texto,otro,fraudulento,sintetico,2026-08-25
+90,Se comunica a los vecinos que el corte de gas sera el viernes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+91,El pedido que hiciste ya esta listo para recoger en la tienda. Horario de atencion normal.,texto,otro,legitimo,sintetico,2026-08-25
+92,Se comunica a los vecinos que el corte de gas sera el viernes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+93,Le informamos que su pago de servicios fue registrado correctamente. Gracias por su preferencia.,texto,otro,legitimo,sintetico,2026-08-25
+94,"Confirmamos su suscripcion por [MONTO] mensual. Si no la reconoce, cancele en bit.ly/3xKq9a.",texto,otro,fraudulento,sintetico,2026-08-25
+95,Recordatorio: tu cita medica es martes a las 16:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+96,Su paquete de la paqueteria esta retenido en aduana. Pague [MONTO] en premios-online.top/ganador para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+97,Seleccionado para entrevista de trabajo. Confirme sus datos y pague el examen medico [MONTO] en mi-entidad-segura.com/validar.,texto,empleo,fraudulento,sintetico,2026-08-25
+98,"Estimado cliente, su estado de cuenta ya esta disponible en nuestra app oficial.",texto,otro,legitimo,sintetico,2026-08-25
+99,Se comunica a los vecinos que el corte de gas sera el 15 de este mes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+100,Se comunica a los vecinos que el corte de internet sera el viernes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+101,Su turno para tu tramite fue agendado para lunes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+102,Recordatorio: tu cita medica es el 15 de este mes a las 16:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+103,Gracias por su compra en el comercio. Su pedido llegara martes.,texto,otro,legitimo,sintetico,2026-08-25
+104,Su documento de identidad vence. Renuevelo en linea en beneficio-estatal.xyz/cobro antes de hoy.,texto,Estado,fraudulento,sintetico,2026-08-25
+105,Usted tiene un bono de [MONTO] disponible. Cobrelo en beneficio-estatal.xyz/cobro con su numero de carnet manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+106,Su documento de identidad vence. Renuevelo en linea en soporte-cuenta.info/urgente antes de en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+107,Su paquete de la paqueteria esta retenido en aduana. Pague [MONTO] en empleo-express.info/registro para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+108,Su turno para la renovacion de tu documento fue agendado para manana a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+109,Se comunica a los vecinos que el corte de luz sera lunes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+110,Su turno para tu tramite fue agendado para lunes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+111,Su documento de identidad vence. Renuevelo en linea en soporte-cuenta.info/urgente antes de en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+112,Su numero fue seleccionado para un bono de compras. Pague [MONTO] de envio y reciba su premio: envios-retenidos.site,texto,premio,fraudulento,sintetico,2026-08-25
+113,Su numero fue seleccionado para un celular de ultima generacion. Pague [MONTO] de envio y reciba su premio: verificacion-cuenta.xyz/acceso,texto,premio,fraudulento,sintetico,2026-08-25
+114,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en actualiza-datos.top/cliente en 24 horas.,texto,otro,fraudulento,sintetico,2026-08-25
+115,Gracias por su compra en el minimarket del barrio. Su pedido llegara martes.,texto,otro,legitimo,sintetico,2026-08-25
+116,Se comunica a los vecinos que el corte de gas sera lunes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+117,Su turno para tu tramite fue agendado para el proximo lunes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+118,Se comunica a los vecinos que el corte de agua sera el viernes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+119,Se comunica a los vecinos que el corte de internet sera manana de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+120,Gracias por su compra en la farmacia. Su pedido llegara martes.,texto,otro,legitimo,sintetico,2026-08-25
+121,Se comunica a los vecinos que el corte de internet sera manana de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+122,Encomienda pendiente a su nombre. Confirme su direccion y pague [MONTO] aqui: actualiza-datos.top/cliente,texto,paqueteria,fraudulento,sintetico,2026-08-25
+123,FELICIDADES! usted gano un bono de compras. Reclamelo en mi-entidad-segura.com/validar antes de antes de las 18:00.,texto,premio,fraudulento,sintetico,2026-08-25
+124,Ha sido premiado con un bono de compras. Para recibirlo ingrese sus datos en gob-tramite.xyz/bono en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+125,Su numero fue seleccionado para un celular de ultima generacion. Pague [MONTO] de envio y reciba su premio: actualiza-datos.top/cliente,texto,premio,fraudulento,sintetico,2026-08-25
+126,Su numero fue seleccionado para una laptop. Pague [MONTO] de envio y reciba su premio: premios-online.top/ganador,texto,premio,fraudulento,sintetico,2026-08-25
+127,Se comunica a los vecinos que el corte de luz sera martes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+128,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en gob-tramite.xyz/bono antes de las 18:00.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+129,Encomienda pendiente a su nombre. Confirme su direccion y pague [MONTO] aqui: bit.ly/3xKq9a,texto,paqueteria,fraudulento,sintetico,2026-08-25
+130,Su turno para tu inscripcion fue agendado para manana a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+131,Su documento de identidad vence. Renuevelo en linea en actualiza-datos.top/cliente antes de en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+132,Su numero fue seleccionado para una laptop. Pague [MONTO] de envio y reciba su premio: mi-entidad-segura.com/validar,texto,premio,fraudulento,sintetico,2026-08-25
+133,Su tarjeta fue bloqueada por seguridad. Para reactivarla ingrese a gob-tramite.xyz/bono y verifique su clave.,texto,banco,fraudulento,sintetico,2026-08-25
+134,Seleccionado para entrevista de trabajo. Confirme sus datos y pague el examen medico [MONTO] en empleo-express.info/registro.,texto,empleo,fraudulento,sintetico,2026-08-25
+135,Promocion exclusiva: usted es el ganador de un viaje todo pagado. Confirme sus datos en verificacion-cuenta.xyz/acceso.,texto,premio,fraudulento,sintetico,2026-08-25
+136,Su turno para la renovacion de tu documento fue agendado para el viernes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+137,Gracias por su compra en la libreria. Su pedido llegara el 15 de este mes.,texto,otro,legitimo,sintetico,2026-08-25
+138,Su turno para tu inscripcion fue agendado para martes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+139,Recordatorio: tu cita medica es lunes a las 09:15. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+140,Su numero fue seleccionado para una laptop. Pague [MONTO] de envio y reciba su premio: actualiza-datos.top/cliente,texto,premio,fraudulento,sintetico,2026-08-25
+141,Se comunica a los vecinos que el corte de internet sera martes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+142,Se comunica a los vecinos que el corte de internet sera el viernes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+143,Su tarjeta fue bloqueada por seguridad. Para reactivarla ingrese a beneficio-estatal.xyz/cobro y verifique su clave.,texto,banco,fraudulento,sintetico,2026-08-25
+144,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en gob-tramite.xyz/bono en las proximas 2 horas.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+145,Ha sido premiado con un bono de compras. Para recibirlo ingrese sus datos en soporte-cuenta.info/urgente manana.,texto,premio,fraudulento,sintetico,2026-08-25
+146,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en soporte-cuenta.info/urgente manana.,texto,otro,fraudulento,sintetico,2026-08-25
+147,Recordatorio: tu cita medica es el viernes a las 09:15. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+148,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en seguro-banca.info/login hoy.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+149,Su paquete de la empresa de envios esta retenido en aduana. Pague [MONTO] en actualiza-datos.top/cliente para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+150,Su clave digital vencio. Genere una nueva en premios-online.top/ganador antes de en 24 horas para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+151,Su turno para tu tramite fue agendado para lunes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+152,"Vacante urgente medio tiempo, gane [MONTO] semanal sin experiencia. Mas info: verificacion-cuenta.xyz/acceso",texto,empleo,fraudulento,sintetico,2026-08-25
+153,Encomienda pendiente a su nombre. Confirme su direccion y pague [MONTO] aqui: premios-online.top/ganador,texto,paqueteria,fraudulento,sintetico,2026-08-25
+154,Se comunica a los vecinos que el corte de gas sera el viernes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+155,Recordatorio: tu cita medica es el 15 de este mes a las 10:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+156,Se comunica a los vecinos que el corte de internet sera martes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+157,Se comunica a los vecinos que el corte de agua sera martes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+158,Su turno para tu consulta medica fue agendado para el 15 de este mes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+159,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en envios-retenidos.site en 24 horas.,texto,otro,fraudulento,sintetico,2026-08-25
+160,Su token de acceso expira en 24 horas. Actualice sus datos en beneficio-estatal.xyz/cobro para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+161,"Hola, te confirmo la reunion de manana a las 09:15 en la oficina.",texto,otro,legitimo,sintetico,2026-08-25
+162,Su factura de telefonia ya esta disponible. Vencimiento manana. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+163,Su numero fue seleccionado para una motocicleta. Pague [MONTO] de envio y reciba su premio: actualiza-datos.top/cliente,texto,premio,fraudulento,sintetico,2026-08-25
+164,Ha sido premiado con una motocicleta. Para recibirlo ingrese sus datos en actualiza-datos.top/cliente antes de las 18:00.,texto,premio,fraudulento,sintetico,2026-08-25
+165,Promocion exclusiva: usted es el ganador de un bono de compras. Confirme sus datos en verificacion-cuenta.xyz/acceso.,texto,premio,fraudulento,sintetico,2026-08-25
+166,Su turno para la renovacion de tu documento fue agendado para manana a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+167,FELICIDADES! usted gano un bono de compras. Reclamelo en envios-retenidos.site antes de en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+168,Su paquete de la agencia de encomiendas esta retenido en aduana. Pague [MONTO] en gob-tramite.xyz/bono para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+169,Su turno para la renovacion de tu documento fue agendado para el proximo lunes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+170,Su clave digital vencio. Genere una nueva en empleo-express.info/registro antes de manana para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+171,Devolucion de impuestos aprobada: [MONTO]. Ingrese sus datos bancarios en aduana-pagos.site/tramite para recibirla.,texto,Estado,fraudulento,sintetico,2026-08-25
+172,Su factura de internet ya esta disponible. Vencimiento el 15 de este mes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+173,Seleccionado para entrevista de trabajo. Confirme sus datos y pague el examen medico [MONTO] en aduana-pagos.site/tramite.,texto,empleo,fraudulento,sintetico,2026-08-25
+174,Promocion exclusiva: usted es el ganador de un viaje todo pagado. Confirme sus datos en envios-retenidos.site.,texto,premio,fraudulento,sintetico,2026-08-25
+175,Su turno para tu tramite fue agendado para el 15 de este mes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+176,Su turno para tu tramite fue agendado para el 15 de este mes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+177,Se comunica a los vecinos que el corte de telefonia sera el viernes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+178,Su paquete de el courier esta retenido en aduana. Pague [MONTO] en verificacion-cuenta.xyz/acceso para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+179,Su turno para tu tramite fue agendado para martes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+180,FELICIDADES! usted gano una motocicleta. Reclamelo en verificacion-cuenta.xyz/acceso antes de antes de las 18:00.,texto,premio,fraudulento,sintetico,2026-08-25
+181,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en gob-tramite.xyz/bono en 24 horas.,texto,otro,fraudulento,sintetico,2026-08-25
+182,"Feliz cumpleanos! que tengas un lindo dia, un abrazo grande.",texto,otro,legitimo,sintetico,2026-08-25
+183,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en soporte-cuenta.info/urgente en las proximas 2 horas.,texto,otro,fraudulento,sintetico,2026-08-25
+184,Su token de acceso expira antes de las 18:00. Actualice sus datos en verificacion-cuenta.xyz/acceso para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+185,Su turno para tu inscripcion fue agendado para el proximo lunes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+186,"Vacante urgente medio tiempo, gane [MONTO] semanal sin experiencia. Mas info: empleo-express.info/registro",texto,empleo,fraudulento,sintetico,2026-08-25
+187,Su turno para la renovacion de tu documento fue agendado para el 15 de este mes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+188,Se comunica a los vecinos que el corte de gas sera manana de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+189,Devolucion de impuestos aprobada: [MONTO]. Ingrese sus datos bancarios en actualiza-datos.top/cliente para recibirla.,texto,Estado,fraudulento,sintetico,2026-08-25
+190,Ha sido premiado con una laptop. Para recibirlo ingrese sus datos en aduana-pagos.site/tramite manana.,texto,premio,fraudulento,sintetico,2026-08-25
+191,Su documento de identidad vence. Renuevelo en linea en aduana-pagos.site/tramite antes de manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+192,Su turno para la renovacion de tu documento fue agendado para el 15 de este mes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+193,Su turno para tu inscripcion fue agendado para lunes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+194,"Confirmamos su suscripcion por [MONTO] mensual. Si no la reconoce, cancele en mi-entidad-segura.com/validar.",texto,otro,fraudulento,sintetico,2026-08-25
+195,Su turno para tu consulta medica fue agendado para el 15 de este mes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+196,Se comunica a los vecinos que el corte de telefonia sera lunes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+197,Su turno para tu inscripcion fue agendado para el proximo lunes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+198,Su turno para tu inscripcion fue agendado para el proximo lunes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+199,Se comunica a los vecinos que el corte de agua sera el 15 de este mes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+200,Su turno para tu consulta medica fue agendado para manana a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+201,"Empresa selecciona personal, sueldo [MONTO]. Registrese pagando [MONTO] de inscripcion en bit.ly/3xKq9a.",texto,empleo,fraudulento,sintetico,2026-08-25
+202,Gracias por su compra en la tienda. Su pedido llegara lunes.,texto,otro,legitimo,sintetico,2026-08-25
+203,Su factura de agua ya esta disponible. Vencimiento martes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+204,Gracias por su compra en el comercio. Su pedido llegara el viernes.,texto,otro,legitimo,sintetico,2026-08-25
+205,Se comunica a los vecinos que el corte de telefonia sera el 15 de este mes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+206,Su clave digital vencio. Genere una nueva en gob-tramite.xyz/bono antes de en las proximas 2 horas para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+207,Devolucion de impuestos aprobada: [MONTO]. Ingrese sus datos bancarios en beneficio-estatal.xyz/cobro para recibirla.,texto,Estado,fraudulento,sintetico,2026-08-25
+208,Su turno para tu inscripcion fue agendado para martes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+209,Su factura de internet ya esta disponible. Vencimiento el viernes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+210,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en bit.ly/3xKq9a hoy.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+211,Su turno para la renovacion de tu documento fue agendado para lunes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+212,Se comunica a los vecinos que el corte de telefonia sera el proximo lunes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+213,Su clave digital vencio. Genere una nueva en soporte-cuenta.info/urgente antes de hoy para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+214,Se comunica a los vecinos que el corte de agua sera el viernes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+215,Ha sido premiado con un bono de compras. Para recibirlo ingrese sus datos en seguro-banca.info/login antes de las 18:00.,texto,premio,fraudulento,sintetico,2026-08-25
+216,Su paquete de la empresa de envios esta retenido en aduana. Pague [MONTO] en soporte-cuenta.info/urgente para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+217,FELICIDADES! usted gano Bs. 5.000 en efectivo. Reclamelo en verificacion-cuenta.xyz/acceso antes de antes de las 18:00.,texto,premio,fraudulento,sintetico,2026-08-25
+218,Su paquete de el courier esta retenido en aduana. Pague [MONTO] en mi-entidad-segura.com/validar para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+219,Ha sido premiado con un bono de compras. Para recibirlo ingrese sus datos en soporte-cuenta.info/urgente hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+220,Se comunica a los vecinos que el corte de telefonia sera el viernes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+221,Su paquete de la empresa de envios esta retenido en aduana. Pague [MONTO] en envios-retenidos.site para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+222,Su turno para tu consulta medica fue agendado para martes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+223,Se comunica a los vecinos que el corte de luz sera el viernes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+224,Su turno para tu tramite fue agendado para manana a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+225,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en envios-retenidos.site en las proximas 2 horas.,texto,otro,fraudulento,sintetico,2026-08-25
+226,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en aduana-pagos.site/tramite en 24 horas.,texto,otro,fraudulento,sintetico,2026-08-25
+227,Su factura de agua ya esta disponible. Vencimiento lunes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+228,Su turno para la renovacion de tu documento fue agendado para el 15 de este mes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+229,Seleccionado para entrevista de trabajo. Confirme sus datos y pague el examen medico [MONTO] en gob-tramite.xyz/bono.,texto,empleo,fraudulento,sintetico,2026-08-25
+230,"Estimado usuario, se registro un intento de compra por [MONTO]. Si no fue usted, cancele en aduana-pagos.site/tramite.",texto,banco,fraudulento,sintetico,2026-08-25
+231,Gracias por su compra en la libreria. Su pedido llegara martes.,texto,otro,legitimo,sintetico,2026-08-25
+232,Se comunica a los vecinos que el corte de gas sera lunes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+233,"Vacante urgente medio tiempo, gane [MONTO] semanal sin experiencia. Mas info: gob-tramite.xyz/bono",texto,empleo,fraudulento,sintetico,2026-08-25
+234,FELICIDADES! usted gano una motocicleta. Reclamelo en aduana-pagos.site/tramite antes de antes de las 18:00.,texto,premio,fraudulento,sintetico,2026-08-25
+235,Usted tiene un bono de [MONTO] disponible. Cobrelo en empleo-express.info/registro con su numero de carnet en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+236,Se comunica a los vecinos que el corte de agua sera manana de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+237,Encomienda pendiente a su nombre. Confirme su direccion y pague [MONTO] aqui: gob-tramite.xyz/bono,texto,paqueteria,fraudulento,sintetico,2026-08-25
+238,Su turno para tu consulta medica fue agendado para manana a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+239,"Estimado cliente, su cuenta sera suspendida por seguridad. Valide sus datos en soporte-cuenta.info/urgente de inmediato.",texto,banco,fraudulento,sintetico,2026-08-25
+240,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en soporte-cuenta.info/urgente antes de las 18:00.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+241,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en soporte-cuenta.info/urgente antes de las 18:00.,texto,otro,fraudulento,sintetico,2026-08-25
+242,Su turno para tu inscripcion fue agendado para martes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+243,Se comunica a los vecinos que el corte de gas sera manana de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+244,Su factura de agua ya esta disponible. Vencimiento el proximo lunes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+245,Su factura de telefonia ya esta disponible. Vencimiento el 15 de este mes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+246,Su turno para tu inscripcion fue agendado para el viernes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+247,Su turno para tu consulta medica fue agendado para el 15 de este mes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+248,Se comunica a los vecinos que el corte de gas sera el proximo lunes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+249,Usted tiene un bono de [MONTO] disponible. Cobrelo en seguro-banca.info/login con su numero de carnet en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+250,Su turno para tu inscripcion fue agendado para lunes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+251,FELICIDADES! usted gano Bs. 5.000 en efectivo. Reclamelo en soporte-cuenta.info/urgente antes de en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+252,Se comunica a los vecinos que el corte de agua sera lunes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+253,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en soporte-cuenta.info/urgente en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+254,Su turno para tu inscripcion fue agendado para el viernes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+255,Su documento de identidad vence. Renuevelo en linea en gob-tramite.xyz/bono antes de en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+256,Recordatorio: tu cita medica es martes a las 14:30. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+257,Se comunica a los vecinos que el corte de luz sera el 15 de este mes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+258,Su turno para tu consulta medica fue agendado para el 15 de este mes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+259,Su token de acceso expira en las proximas 2 horas. Actualice sus datos en premios-online.top/ganador para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+260,Se comunica a los vecinos que el corte de agua sera el 15 de este mes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+261,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en envios-retenidos.site en las proximas 2 horas.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+262,Su turno para tu inscripcion fue agendado para el viernes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+263,Devolucion de impuestos aprobada: [MONTO]. Ingrese sus datos bancarios en premios-online.top/ganador para recibirla.,texto,Estado,fraudulento,sintetico,2026-08-25
+264,Su turno para tu inscripcion fue agendado para el 15 de este mes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+265,Su turno para tu consulta medica fue agendado para martes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+266,"Vacante urgente medio tiempo, gane [MONTO] semanal sin experiencia. Mas info: envios-retenidos.site",texto,empleo,fraudulento,sintetico,2026-08-25
+267,Su turno para tu tramite fue agendado para el proximo lunes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+268,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en bit.ly/3xKq9a en 24 horas.,texto,otro,fraudulento,sintetico,2026-08-25
+269,Gracias por su compra en la farmacia. Su pedido llegara el proximo lunes.,texto,otro,legitimo,sintetico,2026-08-25
+270,Se comunica a los vecinos que el corte de agua sera el 15 de este mes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+271,Encomienda pendiente a su nombre. Confirme su direccion y pague [MONTO] aqui: mi-entidad-segura.com/validar,texto,paqueteria,fraudulento,sintetico,2026-08-25
+272,Se comunica a los vecinos que el corte de agua sera manana de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+273,Recordatorio: tu cita medica es el viernes a las 14:30. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+274,Promocion exclusiva: usted es el ganador de Bs. 5.000 en efectivo. Confirme sus datos en empleo-express.info/registro.,texto,premio,fraudulento,sintetico,2026-08-25
+275,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en empleo-express.info/registro hoy.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+276,Se comunica a los vecinos que el corte de internet sera el proximo lunes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+277,Su turno para tu tramite fue agendado para el viernes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+278,Su turno para tu inscripcion fue agendado para manana a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+279,Recordatorio: tu cita medica es el viernes a las 08:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+280,Su turno para tu consulta medica fue agendado para el proximo lunes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+281,FELICIDADES! usted gano una laptop. Reclamelo en envios-retenidos.site antes de en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+282,Se comunica a los vecinos que el corte de gas sera el viernes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+283,Recordatorio: tu cita medica es el viernes a las 16:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+284,Su turno para tu consulta medica fue agendado para el 15 de este mes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+285,Seleccionado para entrevista de trabajo. Confirme sus datos y pague el examen medico [MONTO] en soporte-cuenta.info/urgente.,texto,empleo,fraudulento,sintetico,2026-08-25
+286,"Estimado usuario, se registro un intento de compra por [MONTO]. Si no fue usted, cancele en gob-tramite.xyz/bono.",texto,banco,fraudulento,sintetico,2026-08-25
+287,Su numero fue seleccionado para un bono de compras. Pague [MONTO] de envio y reciba su premio: bit.ly/3xKq9a,texto,premio,fraudulento,sintetico,2026-08-25
+288,Su factura de gas ya esta disponible. Vencimiento el proximo lunes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+289,Gracias por su compra en la libreria. Su pedido llegara manana.,texto,otro,legitimo,sintetico,2026-08-25
+290,Se comunica a los vecinos que el corte de gas sera el viernes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+291,"Vacante urgente medio tiempo, gane [MONTO] semanal sin experiencia. Mas info: beneficio-estatal.xyz/cobro",texto,empleo,fraudulento,sintetico,2026-08-25
+292,Se comunica a los vecinos que el corte de internet sera el proximo lunes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+293,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en gob-tramite.xyz/bono hoy.,texto,Estado,fraudulento,sintetico,2026-08-25
+294,Su token de acceso expira en las proximas 2 horas. Actualice sus datos en aduana-pagos.site/tramite para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+295,Su factura de luz ya esta disponible. Vencimiento el proximo lunes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+296,Promocion exclusiva: usted es el ganador de Bs. 5.000 en efectivo. Confirme sus datos en beneficio-estatal.xyz/cobro.,texto,premio,fraudulento,sintetico,2026-08-25
+297,Ha sido premiado con una laptop. Para recibirlo ingrese sus datos en actualiza-datos.top/cliente en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+298,Se comunica a los vecinos que el corte de telefonia sera lunes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+299,FELICIDADES! usted gano una motocicleta. Reclamelo en gob-tramite.xyz/bono antes de manana.,texto,premio,fraudulento,sintetico,2026-08-25
+300,Se comunica a los vecinos que el corte de agua sera el proximo lunes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+301,Su turno para tu inscripcion fue agendado para el viernes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+302,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en aduana-pagos.site/tramite antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+303,Recordatorio: tu cita medica es manana a las 11:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+304,Recordatorio: tu cita medica es manana a las 10:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+305,Su token de acceso expira manana. Actualice sus datos en bit.ly/3xKq9a para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+306,Usted tiene un bono de [MONTO] disponible. Cobrelo en mi-entidad-segura.com/validar con su numero de carnet manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+307,Gracias por su compra en la tienda. Su pedido llegara manana.,texto,otro,legitimo,sintetico,2026-08-25
+308,Recordatorio: tu cita medica es lunes a las 16:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+309,Su turno para la renovacion de tu documento fue agendado para lunes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+310,Se comunica a los vecinos que el corte de telefonia sera lunes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+311,Su token de acceso expira hoy. Actualice sus datos en verificacion-cuenta.xyz/acceso para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+312,Su tarjeta fue bloqueada por seguridad. Para reactivarla ingrese a envios-retenidos.site y verifique su clave.,texto,banco,fraudulento,sintetico,2026-08-25
+313,Gracias por su compra en el minimarket del barrio. Su pedido llegara manana.,texto,otro,legitimo,sintetico,2026-08-25
+314,No pudimos entregar su envio. Reprograme y pague [MONTO] de reenvio en verificacion-cuenta.xyz/acceso.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+315,Reunion de la directiva reprogramada para el 15 de este mes. Confirmen asistencia por favor.,texto,otro,legitimo,sintetico,2026-08-25
+316,Se comunica a los vecinos que el corte de internet sera manana de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+317,Su clave digital vencio. Genere una nueva en soporte-cuenta.info/urgente antes de en 24 horas para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+318,Su turno para tu consulta medica fue agendado para el viernes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+319,Gracias por su compra en el comercio. Su pedido llegara el proximo lunes.,texto,otro,legitimo,sintetico,2026-08-25
+320,Ha sido premiado con un viaje todo pagado. Para recibirlo ingrese sus datos en envios-retenidos.site en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+321,Su clave digital vencio. Genere una nueva en actualiza-datos.top/cliente antes de hoy para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+322,Su turno para tu inscripcion fue agendado para el proximo lunes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+323,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en actualiza-datos.top/cliente antes de las 18:00.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+324,Promocion exclusiva: usted es el ganador de un bono de compras. Confirme sus datos en gob-tramite.xyz/bono.,texto,premio,fraudulento,sintetico,2026-08-25
+325,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en seguro-banca.info/login en 24 horas.,texto,otro,fraudulento,sintetico,2026-08-25
+326,Su turno para tu inscripcion fue agendado para el 15 de este mes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+327,Se comunica a los vecinos que el corte de luz sera manana de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+328,Su numero fue seleccionado para Bs. 5.000 en efectivo. Pague [MONTO] de envio y reciba su premio: seguro-banca.info/login,texto,premio,fraudulento,sintetico,2026-08-25
+329,Su turno para tu consulta medica fue agendado para manana a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+330,Usted tiene un bono de [MONTO] disponible. Cobrelo en verificacion-cuenta.xyz/acceso con su numero de carnet en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+331,Se comunica a los vecinos que el corte de telefonia sera martes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+332,Su tarjeta fue bloqueada por seguridad. Para reactivarla ingrese a verificacion-cuenta.xyz/acceso y verifique su clave.,texto,banco,fraudulento,sintetico,2026-08-25
+333,Devolucion de impuestos aprobada: [MONTO]. Ingrese sus datos bancarios en empleo-express.info/registro para recibirla.,texto,Estado,fraudulento,sintetico,2026-08-25
+334,Ha sido premiado con un viaje todo pagado. Para recibirlo ingrese sus datos en empleo-express.info/registro manana.,texto,premio,fraudulento,sintetico,2026-08-25
+335,ALERTA: detectamos un acceso no autorizado a su cuenta. Confirme su identidad en seguro-banca.info/login o sera bloqueada.,texto,banco,fraudulento,sintetico,2026-08-25
+336,"Empresa selecciona personal, sueldo [MONTO]. Registrese pagando [MONTO] de inscripcion en gob-tramite.xyz/bono.",texto,empleo,fraudulento,sintetico,2026-08-25
+337,Su turno para la renovacion de tu documento fue agendado para el 15 de este mes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+338,"Empresa selecciona personal, sueldo [MONTO]. Registrese pagando [MONTO] de inscripcion en soporte-cuenta.info/urgente.",texto,empleo,fraudulento,sintetico,2026-08-25
+339,Su documento de identidad vence. Renuevelo en linea en envios-retenidos.site antes de antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+340,Su numero fue seleccionado para un celular de ultima generacion. Pague [MONTO] de envio y reciba su premio: mi-entidad-segura.com/validar,texto,premio,fraudulento,sintetico,2026-08-25
+341,Su clave digital vencio. Genere una nueva en bit.ly/3xKq9a antes de en 24 horas para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+342,Su factura de agua ya esta disponible. Vencimiento el 15 de este mes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+343,"Hola, te confirmo la reunion de manana a las 10:00 en la oficina.",texto,otro,legitimo,sintetico,2026-08-25
+344,"Empresa selecciona personal, sueldo [MONTO]. Registrese pagando [MONTO] de inscripcion en premios-online.top/ganador.",texto,empleo,fraudulento,sintetico,2026-08-25
+345,Gracias por su compra en el minimarket del barrio. Su pedido llegara lunes.,texto,otro,legitimo,sintetico,2026-08-25
+346,Su turno para tu consulta medica fue agendado para martes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+347,Devolucion de impuestos aprobada: [MONTO]. Ingrese sus datos bancarios en soporte-cuenta.info/urgente para recibirla.,texto,Estado,fraudulento,sintetico,2026-08-25
+348,Se comunica a los vecinos que el corte de agua sera martes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+349,Su turno para tu inscripcion fue agendado para el 15 de este mes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+350,Su turno para tu consulta medica fue agendado para el proximo lunes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+351,Su numero fue seleccionado para una laptop. Pague [MONTO] de envio y reciba su premio: aduana-pagos.site/tramite,texto,premio,fraudulento,sintetico,2026-08-25
+352,Su numero fue seleccionado para un celular de ultima generacion. Pague [MONTO] de envio y reciba su premio: gob-tramite.xyz/bono,texto,premio,fraudulento,sintetico,2026-08-25
+353,Su factura de agua ya esta disponible. Vencimiento el viernes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+354,Se comunica a los vecinos que el corte de gas sera lunes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+355,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en empleo-express.info/registro manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+356,"Vacante urgente medio tiempo, gane [MONTO] semanal sin experiencia. Mas info: seguro-banca.info/login",texto,empleo,fraudulento,sintetico,2026-08-25
+357,Ha sido premiado con una laptop. Para recibirlo ingrese sus datos en bit.ly/3xKq9a antes de las 18:00.,texto,premio,fraudulento,sintetico,2026-08-25
+358,Su factura de telefonia ya esta disponible. Vencimiento el proximo lunes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+359,"Hola, te confirmo la reunion de manana a las 14:30 en la oficina.",texto,otro,legitimo,sintetico,2026-08-25
+360,FELICIDADES! usted gano un viaje todo pagado. Reclamelo en mi-entidad-segura.com/validar antes de antes de las 18:00.,texto,premio,fraudulento,sintetico,2026-08-25
+361,Se comunica a los vecinos que el corte de luz sera el 15 de este mes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+362,Se comunica a los vecinos que el corte de gas sera el viernes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+363,Seleccionado para entrevista de trabajo. Confirme sus datos y pague el examen medico [MONTO] en beneficio-estatal.xyz/cobro.,texto,empleo,fraudulento,sintetico,2026-08-25
+364,Se comunica a los vecinos que el corte de agua sera el proximo lunes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+365,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en gob-tramite.xyz/bono antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+366,Su numero fue seleccionado para una laptop. Pague [MONTO] de envio y reciba su premio: soporte-cuenta.info/urgente,texto,premio,fraudulento,sintetico,2026-08-25
+367,"Estimado usuario, se registro un intento de compra por [MONTO]. Si no fue usted, cancele en seguro-banca.info/login.",texto,banco,fraudulento,sintetico,2026-08-25
+368,Se comunica a los vecinos que el corte de internet sera el 15 de este mes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+369,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en gob-tramite.xyz/bono manana.,texto,otro,fraudulento,sintetico,2026-08-25
+370,Promocion exclusiva: usted es el ganador de una motocicleta. Confirme sus datos en aduana-pagos.site/tramite.,texto,premio,fraudulento,sintetico,2026-08-25
+371,Encomienda pendiente a su nombre. Confirme su direccion y pague [MONTO] aqui: verificacion-cuenta.xyz/acceso,texto,paqueteria,fraudulento,sintetico,2026-08-25
+372,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en mi-entidad-segura.com/validar en las proximas 2 horas.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+373,El pedido que hiciste ya esta listo para recoger en el minimarket del barrio. Horario de atencion normal.,texto,otro,legitimo,sintetico,2026-08-25
+374,Su factura de luz ya esta disponible. Vencimiento el 15 de este mes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+375,ALERTA: detectamos un acceso no autorizado a su cuenta. Confirme su identidad en mi-entidad-segura.com/validar o sera bloqueada.,texto,banco,fraudulento,sintetico,2026-08-25
+376,Su turno para la renovacion de tu documento fue agendado para lunes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+377,No pudimos entregar su envio. Reprograme y pague [MONTO] de reenvio en aduana-pagos.site/tramite.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+378,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en verificacion-cuenta.xyz/acceso manana.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+379,"Confirmamos su suscripcion por [MONTO] mensual. Si no la reconoce, cancele en empleo-express.info/registro.",texto,otro,fraudulento,sintetico,2026-08-25
+380,Se comunica a los vecinos que el corte de luz sera martes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+381,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en bit.ly/3xKq9a manana.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+382,Su turno para tu inscripcion fue agendado para manana a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+383,No pudimos entregar su envio. Reprograme y pague [MONTO] de reenvio en actualiza-datos.top/cliente.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+384,Ha sido premiado con una motocicleta. Para recibirlo ingrese sus datos en envios-retenidos.site en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+385,Encomienda pendiente a su nombre. Confirme su direccion y pague [MONTO] aqui: empleo-express.info/registro,texto,paqueteria,fraudulento,sintetico,2026-08-25
+386,"Empresa selecciona personal, sueldo [MONTO]. Registrese pagando [MONTO] de inscripcion en actualiza-datos.top/cliente.",texto,empleo,fraudulento,sintetico,2026-08-25
+387,Su tarjeta fue bloqueada por seguridad. Para reactivarla ingrese a soporte-cuenta.info/urgente y verifique su clave.,texto,banco,fraudulento,sintetico,2026-08-25
+388,Su documento de identidad vence. Renuevelo en linea en gob-tramite.xyz/bono antes de manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+389,Te llego el material que te preste? avisame cuando puedas pasarmelo.,texto,otro,legitimo,sintetico,2026-08-25
+390,"Confirmamos su suscripcion por [MONTO] mensual. Si no la reconoce, cancele en envios-retenidos.site.",texto,otro,fraudulento,sintetico,2026-08-25
+391,FELICIDADES! usted gano Bs. 5.000 en efectivo. Reclamelo en beneficio-estatal.xyz/cobro antes de en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+392,Su turno para tu inscripcion fue agendado para el viernes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+393,Gracias por su compra en la libreria. Su pedido llegara el viernes.,texto,otro,legitimo,sintetico,2026-08-25
+394,Recordatorio: tu cita medica es manana a las 16:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+395,Gracias por su compra en la farmacia. Su pedido llegara el viernes.,texto,otro,legitimo,sintetico,2026-08-25
+396,Su token de acceso expira manana. Actualice sus datos en actualiza-datos.top/cliente para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+397,Recordatorio: tu cita medica es el 15 de este mes a las 09:15. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+398,Su documento de identidad vence. Renuevelo en linea en mi-entidad-segura.com/validar antes de en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+399,Se comunica a los vecinos que el corte de gas sera lunes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+400,Se comunica a los vecinos que el corte de luz sera el 15 de este mes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+401,Ha sido premiado con Bs. 5.000 en efectivo. Para recibirlo ingrese sus datos en mi-entidad-segura.com/validar en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+402,Su turno para la renovacion de tu documento fue agendado para lunes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+403,Seleccionado para entrevista de trabajo. Confirme sus datos y pague el examen medico [MONTO] en seguro-banca.info/login.,texto,empleo,fraudulento,sintetico,2026-08-25
+404,"Trabajo desde casa, gane [MONTO] al dia. Cupos limitados, escriba al WhatsApp [TELEFONO].",texto,empleo,fraudulento,sintetico,2026-08-25
+405,Usted tiene un bono de [MONTO] disponible. Cobrelo en actualiza-datos.top/cliente con su numero de carnet hoy.,texto,Estado,fraudulento,sintetico,2026-08-25
+406,Se comunica a los vecinos que el corte de internet sera lunes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+407,Ha sido premiado con una laptop. Para recibirlo ingrese sus datos en envios-retenidos.site hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+408,Su factura de luz ya esta disponible. Vencimiento el viernes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+409,Devolucion de impuestos aprobada: [MONTO]. Ingrese sus datos bancarios en bit.ly/3xKq9a para recibirla.,texto,Estado,fraudulento,sintetico,2026-08-25
+410,Se comunica a los vecinos que el corte de luz sera el 15 de este mes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+411,Reunion de la directiva reprogramada para lunes. Confirmen asistencia por favor.,texto,otro,legitimo,sintetico,2026-08-25
+412,Su tarjeta fue bloqueada por seguridad. Para reactivarla ingrese a aduana-pagos.site/tramite y verifique su clave.,texto,banco,fraudulento,sintetico,2026-08-25
+413,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en envios-retenidos.site en 24 horas.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+414,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en bit.ly/3xKq9a en las proximas 2 horas.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+415,Su turno para la renovacion de tu documento fue agendado para manana a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+416,Su clave digital vencio. Genere una nueva en verificacion-cuenta.xyz/acceso antes de en las proximas 2 horas para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+417,FELICIDADES! usted gano un viaje todo pagado. Reclamelo en soporte-cuenta.info/urgente antes de antes de las 18:00.,texto,premio,fraudulento,sintetico,2026-08-25
+418,Su token de acceso expira hoy. Actualice sus datos en envios-retenidos.site para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+419,Se comunica a los vecinos que el corte de internet sera manana de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+420,Se comunica a los vecinos que el corte de telefonia sera manana de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+421,Su clave digital vencio. Genere una nueva en envios-retenidos.site antes de hoy para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+422,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en soporte-cuenta.info/urgente en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+423,Su turno para la renovacion de tu documento fue agendado para el 15 de este mes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+424,"Empresa selecciona personal, sueldo [MONTO]. Registrese pagando [MONTO] de inscripcion en mi-entidad-segura.com/validar.",texto,empleo,fraudulento,sintetico,2026-08-25
+425,ALERTA: detectamos un acceso no autorizado a su cuenta. Confirme su identidad en premios-online.top/ganador o sera bloqueada.,texto,banco,fraudulento,sintetico,2026-08-25
+426,Recordatorio: tu cita medica es manana a las 14:30. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+427,Usted tiene un bono de [MONTO] disponible. Cobrelo en mi-entidad-segura.com/validar con su numero de carnet en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+428,Ha sido premiado con Bs. 5.000 en efectivo. Para recibirlo ingrese sus datos en verificacion-cuenta.xyz/acceso en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+429,Recordatorio: tu cita medica es lunes a las 11:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+430,Su numero fue seleccionado para un celular de ultima generacion. Pague [MONTO] de envio y reciba su premio: beneficio-estatal.xyz/cobro,texto,premio,fraudulento,sintetico,2026-08-25
+431,Su clave digital vencio. Genere una nueva en envios-retenidos.site antes de en 24 horas para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+432,FELICIDADES! usted gano un celular de ultima generacion. Reclamelo en soporte-cuenta.info/urgente antes de hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+433,El pedido que hiciste ya esta listo para recoger en el comercio. Horario de atencion normal.,texto,otro,legitimo,sintetico,2026-08-25
+434,Su factura de gas ya esta disponible. Vencimiento manana. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+435,Su numero fue seleccionado para un viaje todo pagado. Pague [MONTO] de envio y reciba su premio: beneficio-estatal.xyz/cobro,texto,premio,fraudulento,sintetico,2026-08-25
+436,Su documento de identidad vence. Renuevelo en linea en envios-retenidos.site antes de manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+437,Usted tiene un bono de [MONTO] disponible. Cobrelo en gob-tramite.xyz/bono con su numero de carnet manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+438,Se comunica a los vecinos que el corte de gas sera el proximo lunes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+439,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en verificacion-cuenta.xyz/acceso en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+440,Su paquete de la agencia de encomiendas esta retenido en aduana. Pague [MONTO] en premios-online.top/ganador para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+441,Gracias por su compra en el minimarket del barrio. Su pedido llegara el 15 de este mes.,texto,otro,legitimo,sintetico,2026-08-25
+442,Se comunica a los vecinos que el corte de internet sera martes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+443,Su documento de identidad vence. Renuevelo en linea en bit.ly/3xKq9a antes de manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+444,Se comunica a los vecinos que el corte de gas sera martes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+445,Su token de acceso expira manana. Actualice sus datos en premios-online.top/ganador para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+446,Se comunica a los vecinos que el corte de gas sera el 15 de este mes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+447,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en envios-retenidos.site antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+448,Se comunica a los vecinos que el corte de telefonia sera el 15 de este mes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+449,Su numero fue seleccionado para un bono de compras. Pague [MONTO] de envio y reciba su premio: actualiza-datos.top/cliente,texto,premio,fraudulento,sintetico,2026-08-25
+450,Su documento de identidad vence. Renuevelo en linea en seguro-banca.info/login antes de en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+451,Promocion exclusiva: usted es el ganador de un bono de compras. Confirme sus datos en soporte-cuenta.info/urgente.,texto,premio,fraudulento,sintetico,2026-08-25
+452,Recordatorio: tu cita medica es el proximo lunes a las 11:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+453,Su turno para tu tramite fue agendado para el viernes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+454,Se comunica a los vecinos que el corte de gas sera martes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+455,Recordatorio: tu cita medica es el viernes a las 11:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+456,Devolucion de impuestos aprobada: [MONTO]. Ingrese sus datos bancarios en mi-entidad-segura.com/validar para recibirla.,texto,Estado,fraudulento,sintetico,2026-08-25
+457,Su token de acceso expira antes de las 18:00. Actualice sus datos en premios-online.top/ganador para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+458,"Estimado cliente, su cuenta sera suspendida por seguridad. Valide sus datos en gob-tramite.xyz/bono de inmediato.",texto,banco,fraudulento,sintetico,2026-08-25
+459,Su token de acceso expira manana. Actualice sus datos en beneficio-estatal.xyz/cobro para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+460,Gracias por su compra en el comercio. Su pedido llegara lunes.,texto,otro,legitimo,sintetico,2026-08-25
+461,Su factura de agua ya esta disponible. Vencimiento manana. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+462,la farmacia: 20% de descuento este fin de semana en toda la tienda. Te esperamos!,texto,otro,legitimo,sintetico,2026-08-25
+463,Se comunica a los vecinos que el corte de telefonia sera el 15 de este mes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+464,Su tarjeta fue bloqueada por seguridad. Para reactivarla ingrese a empleo-express.info/registro y verifique su clave.,texto,banco,fraudulento,sintetico,2026-08-25
+465,Ha sido premiado con una laptop. Para recibirlo ingrese sus datos en beneficio-estatal.xyz/cobro hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+466,Se comunica a los vecinos que el corte de agua sera el proximo lunes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+467,Se comunica a los vecinos que el corte de telefonia sera el viernes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+468,Su turno para tu tramite fue agendado para lunes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+469,"Hola, te confirmo la reunion de manana a las 11:00 en la oficina.",texto,otro,legitimo,sintetico,2026-08-25
+470,Gracias por su compra en la libreria. Su pedido llegara lunes.,texto,otro,legitimo,sintetico,2026-08-25
+471,Se comunica a los vecinos que el corte de telefonia sera el 15 de este mes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+472,FELICIDADES! usted gano un celular de ultima generacion. Reclamelo en aduana-pagos.site/tramite antes de en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+473,Recordatorio: tu cita medica es martes a las 11:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+474,"Estimado cliente, su cuenta sera suspendida por seguridad. Valide sus datos en actualiza-datos.top/cliente de inmediato.",texto,banco,fraudulento,sintetico,2026-08-25
+475,Ha sido premiado con Bs. 5.000 en efectivo. Para recibirlo ingrese sus datos en bit.ly/3xKq9a en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+476,"Hola profe, le escribo para consultar sobre la clase de manana. Habra examen?",texto,otro,legitimo,sintetico,2026-08-25
+477,Su turno para tu consulta medica fue agendado para lunes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+478,Su turno para tu consulta medica fue agendado para el 15 de este mes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+479,Usted tiene un bono de [MONTO] disponible. Cobrelo en aduana-pagos.site/tramite con su numero de carnet manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+480,Su tarjeta fue bloqueada por seguridad. Para reactivarla ingrese a actualiza-datos.top/cliente y verifique su clave.,texto,banco,fraudulento,sintetico,2026-08-25
+481,"Vacante urgente medio tiempo, gane [MONTO] semanal sin experiencia. Mas info: actualiza-datos.top/cliente",texto,empleo,fraudulento,sintetico,2026-08-25
+482,Su turno para la renovacion de tu documento fue agendado para el proximo lunes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+483,Su turno para la renovacion de tu documento fue agendado para manana a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+484,"Estimado cliente, su cuenta sera suspendida por seguridad. Valide sus datos en empleo-express.info/registro de inmediato.",texto,banco,fraudulento,sintetico,2026-08-25
+485,Su turno para la renovacion de tu documento fue agendado para el proximo lunes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+486,Ha sido premiado con una laptop. Para recibirlo ingrese sus datos en bit.ly/3xKq9a hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+487,Su turno para tu inscripcion fue agendado para martes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+488,"Vacante urgente medio tiempo, gane [MONTO] semanal sin experiencia. Mas info: bit.ly/3xKq9a",texto,empleo,fraudulento,sintetico,2026-08-25
+489,FELICIDADES! usted gano un viaje todo pagado. Reclamelo en aduana-pagos.site/tramite antes de manana.,texto,premio,fraudulento,sintetico,2026-08-25
+490,Se comunica a los vecinos que el corte de luz sera lunes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+491,Promocion exclusiva: usted es el ganador de un viaje todo pagado. Confirme sus datos en soporte-cuenta.info/urgente.,texto,premio,fraudulento,sintetico,2026-08-25
+492,Su turno para la renovacion de tu documento fue agendado para martes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+493,Recordatorio: tu cita medica es el proximo lunes a las 09:15. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+494,Encomienda pendiente a su nombre. Confirme su direccion y pague [MONTO] aqui: soporte-cuenta.info/urgente,texto,paqueteria,fraudulento,sintetico,2026-08-25
+495,Su numero fue seleccionado para una laptop. Pague [MONTO] de envio y reciba su premio: envios-retenidos.site,texto,premio,fraudulento,sintetico,2026-08-25
+496,Su turno para tu tramite fue agendado para el viernes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+497,FELICIDADES! usted gano una laptop. Reclamelo en envios-retenidos.site antes de hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+498,Usted tiene un bono de [MONTO] disponible. Cobrelo en envios-retenidos.site con su numero de carnet en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+499,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en mi-entidad-segura.com/validar en 24 horas.,texto,otro,fraudulento,sintetico,2026-08-25
+500,Su numero fue seleccionado para un bono de compras. Pague [MONTO] de envio y reciba su premio: beneficio-estatal.xyz/cobro,texto,premio,fraudulento,sintetico,2026-08-25
+501,Se comunica a los vecinos que el corte de telefonia sera manana de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+502,No pudimos entregar su envio. Reprograme y pague [MONTO] de reenvio en envios-retenidos.site.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+503,Se comunica a los vecinos que el corte de internet sera martes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+504,Su turno para tu inscripcion fue agendado para el proximo lunes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+505,Su turno para tu consulta medica fue agendado para el proximo lunes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+506,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en bit.ly/3xKq9a antes de las 18:00.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+507,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en bit.ly/3xKq9a manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+508,Se comunica a los vecinos que el corte de gas sera el 15 de este mes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+509,Su tarjeta fue bloqueada por seguridad. Para reactivarla ingrese a bit.ly/3xKq9a y verifique su clave.,texto,banco,fraudulento,sintetico,2026-08-25
+510,Se comunica a los vecinos que el corte de agua sera lunes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+511,Recordatorio: tu cita medica es el proximo lunes a las 14:30. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+512,Se comunica a los vecinos que el corte de agua sera el 15 de este mes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+513,Su factura de gas ya esta disponible. Vencimiento martes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+514,Se comunica a los vecinos que el corte de agua sera el viernes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+515,Su turno para tu consulta medica fue agendado para el viernes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+516,Ha sido premiado con un bono de compras. Para recibirlo ingrese sus datos en aduana-pagos.site/tramite antes de las 18:00.,texto,premio,fraudulento,sintetico,2026-08-25
+517,Se comunica a los vecinos que el corte de internet sera lunes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+518,Su factura de gas ya esta disponible. Vencimiento lunes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+519,Su turno para tu tramite fue agendado para el 15 de este mes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+520,Se comunica a los vecinos que el corte de luz sera martes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+521,Su paquete de el courier esta retenido en aduana. Pague [MONTO] en empleo-express.info/registro para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+522,Usted tiene un bono de [MONTO] disponible. Cobrelo en empleo-express.info/registro con su numero de carnet manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+523,FELICIDADES! usted gano un bono de compras. Reclamelo en gob-tramite.xyz/bono antes de en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+524,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en mi-entidad-segura.com/validar hoy.,texto,otro,fraudulento,sintetico,2026-08-25
+525,Se comunica a los vecinos que el corte de internet sera lunes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+526,Ha sido premiado con una motocicleta. Para recibirlo ingrese sus datos en soporte-cuenta.info/urgente antes de las 18:00.,texto,premio,fraudulento,sintetico,2026-08-25
+527,FELICIDADES! usted gano una laptop. Reclamelo en empleo-express.info/registro antes de en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+528,Recordatorio: tu cita medica es martes a las 10:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+529,No pudimos entregar su envio. Reprograme y pague [MONTO] de reenvio en premios-online.top/ganador.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+530,Devolucion de impuestos aprobada: [MONTO]. Ingrese sus datos bancarios en verificacion-cuenta.xyz/acceso para recibirla.,texto,Estado,fraudulento,sintetico,2026-08-25
+531,FELICIDADES! usted gano una motocicleta. Reclamelo en bit.ly/3xKq9a antes de en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+532,Su numero fue seleccionado para un bono de compras. Pague [MONTO] de envio y reciba su premio: gob-tramite.xyz/bono,texto,premio,fraudulento,sintetico,2026-08-25
+533,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en seguro-banca.info/login hoy.,texto,otro,fraudulento,sintetico,2026-08-25
+534,Su turno para tu inscripcion fue agendado para el viernes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+535,Su clave digital vencio. Genere una nueva en premios-online.top/ganador antes de hoy para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+536,Su clave digital vencio. Genere una nueva en mi-entidad-segura.com/validar antes de antes de las 18:00 para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+537,Promocion exclusiva: usted es el ganador de Bs. 5.000 en efectivo. Confirme sus datos en verificacion-cuenta.xyz/acceso.,texto,premio,fraudulento,sintetico,2026-08-25
+538,"Vacante urgente medio tiempo, gane [MONTO] semanal sin experiencia. Mas info: premios-online.top/ganador",texto,empleo,fraudulento,sintetico,2026-08-25
+539,"Estimado usuario, se registro un intento de compra por [MONTO]. Si no fue usted, cancele en mi-entidad-segura.com/validar.",texto,banco,fraudulento,sintetico,2026-08-25
+540,Su documento de identidad vence. Renuevelo en linea en aduana-pagos.site/tramite antes de en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+541,Su turno para tu consulta medica fue agendado para lunes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+542,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en empleo-express.info/registro en 24 horas.,texto,otro,fraudulento,sintetico,2026-08-25
+543,"Estimado usuario, se registro un intento de compra por [MONTO]. Si no fue usted, cancele en beneficio-estatal.xyz/cobro.",texto,banco,fraudulento,sintetico,2026-08-25
+544,Su turno para la renovacion de tu documento fue agendado para el proximo lunes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+545,Su documento de identidad vence. Renuevelo en linea en mi-entidad-segura.com/validar antes de en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+546,Se comunica a los vecinos que el corte de agua sera el proximo lunes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+547,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en bit.ly/3xKq9a en 24 horas.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+548,Se comunica a los vecinos que el corte de telefonia sera el proximo lunes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+549,Su tarjeta fue bloqueada por seguridad. Para reactivarla ingrese a premios-online.top/ganador y verifique su clave.,texto,banco,fraudulento,sintetico,2026-08-25
+550,Usted tiene un bono de [MONTO] disponible. Cobrelo en verificacion-cuenta.xyz/acceso con su numero de carnet antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+551,Se comunica a los vecinos que el corte de luz sera martes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+552,Su turno para tu consulta medica fue agendado para manana a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+553,"Confirmamos su suscripcion por [MONTO] mensual. Si no la reconoce, cancele en premios-online.top/ganador.",texto,otro,fraudulento,sintetico,2026-08-25
+554,"Vacante urgente medio tiempo, gane [MONTO] semanal sin experiencia. Mas info: soporte-cuenta.info/urgente",texto,empleo,fraudulento,sintetico,2026-08-25
+555,"Hola soy yo, cambie de numero. Necesito un favor urgente, puedes prestarme [MONTO]? te devuelvo manana.",texto,otro,fraudulento,sintetico,2026-08-25
+556,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en verificacion-cuenta.xyz/acceso en 24 horas.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+557,Su turno para tu tramite fue agendado para manana a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+558,Su factura de telefonia ya esta disponible. Vencimiento martes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+559,"Confirmamos su suscripcion por [MONTO] mensual. Si no la reconoce, cancele en aduana-pagos.site/tramite.",texto,otro,fraudulento,sintetico,2026-08-25
+560,Su factura de internet ya esta disponible. Vencimiento lunes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+561,ALERTA: detectamos un acceso no autorizado a su cuenta. Confirme su identidad en bit.ly/3xKq9a o sera bloqueada.,texto,banco,fraudulento,sintetico,2026-08-25
+562,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en mi-entidad-segura.com/validar hoy.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+563,Su clave digital vencio. Genere una nueva en empleo-express.info/registro antes de en las proximas 2 horas para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+564,"Confirmamos su suscripcion por [MONTO] mensual. Si no la reconoce, cancele en seguro-banca.info/login.",texto,otro,fraudulento,sintetico,2026-08-25
+565,Recordatorio: tu cita medica es el viernes a las 10:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+566,Gracias por su compra en el minimarket del barrio. Su pedido llegara el proximo lunes.,texto,otro,legitimo,sintetico,2026-08-25
+567,ALERTA: detectamos un acceso no autorizado a su cuenta. Confirme su identidad en empleo-express.info/registro o sera bloqueada.,texto,banco,fraudulento,sintetico,2026-08-25
+568,Usted tiene un bono de [MONTO] disponible. Cobrelo en gob-tramite.xyz/bono con su numero de carnet en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+569,Se comunica a los vecinos que el corte de telefonia sera manana de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+570,"Ya llegue a casa, todo bien. Cualquier cosa te llamo mas tarde.",texto,otro,legitimo,sintetico,2026-08-25
+571,Su documento de identidad vence. Renuevelo en linea en premios-online.top/ganador antes de en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+572,Reunion de la directiva reprogramada para martes. Confirmen asistencia por favor.,texto,otro,legitimo,sintetico,2026-08-25
+573,Se comunica a los vecinos que el corte de luz sera el viernes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+574,Su turno para tu tramite fue agendado para el proximo lunes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+575,Se comunica a los vecinos que el corte de luz sera el viernes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+576,El pedido que hiciste ya esta listo para recoger en la farmacia. Horario de atencion normal.,texto,otro,legitimo,sintetico,2026-08-25
+577,Se comunica a los vecinos que el corte de agua sera manana de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+578,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en gob-tramite.xyz/bono en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+579,Su paquete de la paqueteria esta retenido en aduana. Pague [MONTO] en aduana-pagos.site/tramite para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+580,Recordatorio: tu cita medica es martes a las 09:15. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+581,Promocion exclusiva: usted es el ganador de un celular de ultima generacion. Confirme sus datos en envios-retenidos.site.,texto,premio,fraudulento,sintetico,2026-08-25
+582,FELICIDADES! usted gano un celular de ultima generacion. Reclamelo en envios-retenidos.site antes de en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+583,Se comunica a los vecinos que el corte de agua sera el proximo lunes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+584,Se comunica a los vecinos que el corte de telefonia sera martes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+585,Usted tiene un bono de [MONTO] disponible. Cobrelo en actualiza-datos.top/cliente con su numero de carnet en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+586,la tienda: 20% de descuento este fin de semana en toda la tienda. Te esperamos!,texto,otro,legitimo,sintetico,2026-08-25
+587,Gracias por su compra en el comercio. Su pedido llegara el 15 de este mes.,texto,otro,legitimo,sintetico,2026-08-25
+588,FELICIDADES! usted gano un celular de ultima generacion. Reclamelo en bit.ly/3xKq9a antes de en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+589,Promocion exclusiva: usted es el ganador de una laptop. Confirme sus datos en beneficio-estatal.xyz/cobro.,texto,premio,fraudulento,sintetico,2026-08-25
+590,No pudimos entregar su envio. Reprograme y pague [MONTO] de reenvio en beneficio-estatal.xyz/cobro.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+591,Reunion de la directiva reprogramada para manana. Confirmen asistencia por favor.,texto,otro,legitimo,sintetico,2026-08-25
+592,"Estimado cliente, su cuenta sera suspendida por seguridad. Valide sus datos en beneficio-estatal.xyz/cobro de inmediato.",texto,banco,fraudulento,sintetico,2026-08-25
+593,Su turno para la renovacion de tu documento fue agendado para el proximo lunes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+594,Su turno para tu consulta medica fue agendado para lunes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+595,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en bit.ly/3xKq9a en las proximas 2 horas.,texto,otro,fraudulento,sintetico,2026-08-25
+596,Su factura de gas ya esta disponible. Vencimiento el 15 de este mes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+597,Se comunica a los vecinos que el corte de agua sera el viernes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+598,Se comunica a los vecinos que el corte de luz sera manana de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+599,Su paquete de el courier esta retenido en aduana. Pague [MONTO] en seguro-banca.info/login para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+600,Su factura de gas ya esta disponible. Vencimiento el viernes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+601,Se comunica a los vecinos que el corte de gas sera martes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+602,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en verificacion-cuenta.xyz/acceso hoy.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+603,Recordatorio: tu cita medica es lunes a las 14:30. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+604,Gracias por su compra en la tienda. Su pedido llegara martes.,texto,otro,legitimo,sintetico,2026-08-25
+605,"Hola, te confirmo la reunion de manana a las 16:00 en la oficina.",texto,otro,legitimo,sintetico,2026-08-25
+606,Se comunica a los vecinos que el corte de telefonia sera lunes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+607,Su turno para tu consulta medica fue agendado para el viernes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+608,Su numero fue seleccionado para un celular de ultima generacion. Pague [MONTO] de envio y reciba su premio: bit.ly/3xKq9a,texto,premio,fraudulento,sintetico,2026-08-25
+609,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en mi-entidad-segura.com/validar antes de las 18:00.,texto,otro,fraudulento,sintetico,2026-08-25
+610,FELICIDADES! usted gano un viaje todo pagado. Reclamelo en soporte-cuenta.info/urgente antes de en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+611,Se comunica a los vecinos que el corte de internet sera manana de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+612,Su numero fue seleccionado para una motocicleta. Pague [MONTO] de envio y reciba su premio: soporte-cuenta.info/urgente,texto,premio,fraudulento,sintetico,2026-08-25
+613,Ha sido premiado con un bono de compras. Para recibirlo ingrese sus datos en empleo-express.info/registro hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+614,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en seguro-banca.info/login manana.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+615,Su turno para la renovacion de tu documento fue agendado para el viernes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+616,FELICIDADES! usted gano una laptop. Reclamelo en aduana-pagos.site/tramite antes de hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+617,Su clave digital vencio. Genere una nueva en mi-entidad-segura.com/validar antes de en 24 horas para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+618,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en seguro-banca.info/login en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+619,Gracias por su compra en la farmacia. Su pedido llegara manana.,texto,otro,legitimo,sintetico,2026-08-25
+620,"Vacante urgente medio tiempo, gane [MONTO] semanal sin experiencia. Mas info: mi-entidad-segura.com/validar",texto,empleo,fraudulento,sintetico,2026-08-25
+621,Promocion exclusiva: usted es el ganador de Bs. 5.000 en efectivo. Confirme sus datos en premios-online.top/ganador.,texto,premio,fraudulento,sintetico,2026-08-25
+622,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en seguro-banca.info/login manana.,texto,otro,fraudulento,sintetico,2026-08-25
+623,Su documento de identidad vence. Renuevelo en linea en premios-online.top/ganador antes de antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+624,"Empresa selecciona personal, sueldo [MONTO]. Registrese pagando [MONTO] de inscripcion en aduana-pagos.site/tramite.",texto,empleo,fraudulento,sintetico,2026-08-25
+625,Recordatorio: tu cita medica es lunes a las 08:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+626,ALERTA: detectamos un acceso no autorizado a su cuenta. Confirme su identidad en actualiza-datos.top/cliente o sera bloqueada.,texto,banco,fraudulento,sintetico,2026-08-25
+627,Se comunica a los vecinos que el corte de agua sera martes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+628,Devolucion de impuestos aprobada: [MONTO]. Ingrese sus datos bancarios en envios-retenidos.site para recibirla.,texto,Estado,fraudulento,sintetico,2026-08-25
+629,Ha sido premiado con una laptop. Para recibirlo ingrese sus datos en bit.ly/3xKq9a en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+630,Su documento de identidad vence. Renuevelo en linea en empleo-express.info/registro antes de antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+631,Se comunica a los vecinos que el corte de agua sera lunes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+632,Se comunica a los vecinos que el corte de telefonia sera el viernes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+633,Su numero fue seleccionado para Bs. 5.000 en efectivo. Pague [MONTO] de envio y reciba su premio: verificacion-cuenta.xyz/acceso,texto,premio,fraudulento,sintetico,2026-08-25
+634,"Hola, te confirmo la reunion de manana a las 08:00 en la oficina.",texto,otro,legitimo,sintetico,2026-08-25
+635,Ha sido premiado con una motocicleta. Para recibirlo ingrese sus datos en soporte-cuenta.info/urgente en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+636,Se comunica a los vecinos que el corte de telefonia sera lunes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+637,Su turno para tu consulta medica fue agendado para manana a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+638,Se comunica a los vecinos que el corte de telefonia sera martes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+639,Seleccionado para entrevista de trabajo. Confirme sus datos y pague el examen medico [MONTO] en envios-retenidos.site.,texto,empleo,fraudulento,sintetico,2026-08-25
+640,Recordatorio: tu cita medica es el 15 de este mes a las 08:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+641,Usted tiene un bono de [MONTO] disponible. Cobrelo en gob-tramite.xyz/bono con su numero de carnet antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+642,"Estimado usuario, se registro un intento de compra por [MONTO]. Si no fue usted, cancele en bit.ly/3xKq9a.",texto,banco,fraudulento,sintetico,2026-08-25
+643,Su numero fue seleccionado para un viaje todo pagado. Pague [MONTO] de envio y reciba su premio: bit.ly/3xKq9a,texto,premio,fraudulento,sintetico,2026-08-25
+644,Su turno para tu tramite fue agendado para el 15 de este mes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+645,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en actualiza-datos.top/cliente manana.,texto,otro,fraudulento,sintetico,2026-08-25
+646,Promocion exclusiva: usted es el ganador de una laptop. Confirme sus datos en aduana-pagos.site/tramite.,texto,premio,fraudulento,sintetico,2026-08-25
+647,FELICIDADES! usted gano un bono de compras. Reclamelo en aduana-pagos.site/tramite antes de en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+648,Gracias por su compra en la tienda. Su pedido llegara el viernes.,texto,otro,legitimo,sintetico,2026-08-25
+649,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en beneficio-estatal.xyz/cobro en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+650,Su token de acceso expira en las proximas 2 horas. Actualice sus datos en verificacion-cuenta.xyz/acceso para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+651,Promocion exclusiva: usted es el ganador de una laptop. Confirme sus datos en soporte-cuenta.info/urgente.,texto,premio,fraudulento,sintetico,2026-08-25
+652,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en empleo-express.info/registro en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+653,Se comunica a los vecinos que el corte de telefonia sera el viernes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+654,Su linea sera dada de baja por falta de actualizacion. Valide sus datos en soporte-cuenta.info/urgente hoy.,texto,otro,fraudulento,sintetico,2026-08-25
+655,Su clave digital vencio. Genere una nueva en seguro-banca.info/login antes de en 24 horas para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+656,Su turno para tu inscripcion fue agendado para lunes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+657,"Confirmamos su suscripcion por [MONTO] mensual. Si no la reconoce, cancele en soporte-cuenta.info/urgente.",texto,otro,fraudulento,sintetico,2026-08-25
+658,Se comunica a los vecinos que el corte de telefonia sera manana de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+659,Su turno para la renovacion de tu documento fue agendado para el 15 de este mes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+660,FELICIDADES! usted gano una motocicleta. Reclamelo en actualiza-datos.top/cliente antes de en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+661,"Empresa selecciona personal, sueldo [MONTO]. Registrese pagando [MONTO] de inscripcion en verificacion-cuenta.xyz/acceso.",texto,empleo,fraudulento,sintetico,2026-08-25
+662,"Estimado usuario, se registro un intento de compra por [MONTO]. Si no fue usted, cancele en empleo-express.info/registro.",texto,banco,fraudulento,sintetico,2026-08-25
+663,Se comunica a los vecinos que el corte de gas sera el 15 de este mes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+664,Se comunica a los vecinos que el corte de agua sera manana de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+665,Se comunica a los vecinos que el corte de internet sera el viernes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+666,Usted tiene un bono de [MONTO] disponible. Cobrelo en verificacion-cuenta.xyz/acceso con su numero de carnet hoy.,texto,Estado,fraudulento,sintetico,2026-08-25
+667,Su turno para tu consulta medica fue agendado para martes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+668,Recordatorio: tu cita medica es el proximo lunes a las 16:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+669,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en seguro-banca.info/login antes de las 18:00.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+670,Su turno para tu inscripcion fue agendado para el 15 de este mes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+671,"Gracias por escribir a atencion al cliente. Su consulta fue registrada, le responderemos pronto.",texto,otro,legitimo,sintetico,2026-08-25
+672,Su turno para tu tramite fue agendado para el viernes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+673,No pudimos entregar su envio. Reprograme y pague [MONTO] de reenvio en gob-tramite.xyz/bono.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+674,Su turno para la renovacion de tu documento fue agendado para manana a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+675,Ha sido premiado con una laptop. Para recibirlo ingrese sus datos en soporte-cuenta.info/urgente manana.,texto,premio,fraudulento,sintetico,2026-08-25
+676,Se comunica a los vecinos que el corte de luz sera el proximo lunes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+677,Promocion exclusiva: usted es el ganador de Bs. 5.000 en efectivo. Confirme sus datos en gob-tramite.xyz/bono.,texto,premio,fraudulento,sintetico,2026-08-25
+678,No pudimos entregar su envio. Reprograme y pague [MONTO] de reenvio en seguro-banca.info/login.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+679,Su factura de internet ya esta disponible. Vencimiento martes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+680,"Estimado usuario, se registro un intento de compra por [MONTO]. Si no fue usted, cancele en actualiza-datos.top/cliente.",texto,banco,fraudulento,sintetico,2026-08-25
+681,"Confirmamos su suscripcion por [MONTO] mensual. Si no la reconoce, cancele en gob-tramite.xyz/bono.",texto,otro,fraudulento,sintetico,2026-08-25
+682,Seleccionado para entrevista de trabajo. Confirme sus datos y pague el examen medico [MONTO] en actualiza-datos.top/cliente.,texto,empleo,fraudulento,sintetico,2026-08-25
+683,Recordatorio: tu cita medica es lunes a las 10:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+684,Su turno para tu inscripcion fue agendado para lunes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+685,Su factura de luz ya esta disponible. Vencimiento martes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+686,Su turno para tu tramite fue agendado para manana a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+687,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en soporte-cuenta.info/urgente en 24 horas.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+688,No pudimos entregar su envio. Reprograme y pague [MONTO] de reenvio en empleo-express.info/registro.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+689,Ha sido premiado con un bono de compras. Para recibirlo ingrese sus datos en mi-entidad-segura.com/validar en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+690,"Buenos dias, ya te envie el informe por correo. Cualquier cosa me avisas.",texto,otro,legitimo,sintetico,2026-08-25
+691,Su turno para la renovacion de tu documento fue agendado para lunes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+692,Se comunica a los vecinos que el corte de luz sera el proximo lunes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+693,FELICIDADES! usted gano una motocicleta. Reclamelo en soporte-cuenta.info/urgente antes de hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+694,Gracias por su compra en la farmacia. Su pedido llegara lunes.,texto,otro,legitimo,sintetico,2026-08-25
+695,Su clave digital vencio. Genere una nueva en gob-tramite.xyz/bono antes de antes de las 18:00 para evitar el bloqueo.,texto,banco,fraudulento,sintetico,2026-08-25
+696,Su turno para la renovacion de tu documento fue agendado para el viernes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+697,Gracias por su compra en el minimarket del barrio. Su pedido llegara el viernes.,texto,otro,legitimo,sintetico,2026-08-25
+698,Se comunica a los vecinos que el corte de gas sera el proximo lunes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+699,Su turno para la renovacion de tu documento fue agendado para martes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+700,Se comunica a los vecinos que el corte de luz sera manana de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+701,Su factura de luz ya esta disponible. Vencimiento manana. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+702,FELICIDADES! usted gano un celular de ultima generacion. Reclamelo en verificacion-cuenta.xyz/acceso antes de manana.,texto,premio,fraudulento,sintetico,2026-08-25
+703,Se comunica a los vecinos que el corte de internet sera el proximo lunes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+704,Recordatorio: tu cita medica es manana a las 09:15. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+705,FELICIDADES! usted gano una laptop. Reclamelo en mi-entidad-segura.com/validar antes de hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+706,Gracias por su compra en la farmacia. Su pedido llegara el 15 de este mes.,texto,otro,legitimo,sintetico,2026-08-25
+707,Gracias por su compra en la tienda. Su pedido llegara el 15 de este mes.,texto,otro,legitimo,sintetico,2026-08-25
+708,Su numero fue seleccionado para una laptop. Pague [MONTO] de envio y reciba su premio: beneficio-estatal.xyz/cobro,texto,premio,fraudulento,sintetico,2026-08-25
+709,Se comunica a los vecinos que el corte de luz sera lunes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+710,Recordatorio: tu cita medica es el proximo lunes a las 08:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+711,"Empresa selecciona personal, sueldo [MONTO]. Registrese pagando [MONTO] de inscripcion en envios-retenidos.site.",texto,empleo,fraudulento,sintetico,2026-08-25
+712,Se comunica a los vecinos que el corte de internet sera manana de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+713,Su documento de identidad vence. Renuevelo en linea en soporte-cuenta.info/urgente antes de manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+714,"Estimado cliente, su cuenta sera suspendida por seguridad. Valide sus datos en verificacion-cuenta.xyz/acceso de inmediato.",texto,banco,fraudulento,sintetico,2026-08-25
+715,Su turno para tu tramite fue agendado para martes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+716,Su turno para tu consulta medica fue agendado para lunes a las 16:00.,texto,otro,legitimo,sintetico,2026-08-25
+717,Su factura de telefonia ya esta disponible. Vencimiento lunes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+718,Su documento de identidad vence. Renuevelo en linea en actualiza-datos.top/cliente antes de en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+719,Se comunica a los vecinos que el corte de gas sera lunes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+720,Se comunica a los vecinos que el corte de agua sera lunes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+721,Recordatorio: tu cita medica es martes a las 08:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+722,Su turno para tu consulta medica fue agendado para el viernes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+723,Su numero fue seleccionado para un viaje todo pagado. Pague [MONTO] de envio y reciba su premio: gob-tramite.xyz/bono,texto,premio,fraudulento,sintetico,2026-08-25
+724,Se comunica a los vecinos que el corte de internet sera el 15 de este mes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+725,Su turno para tu tramite fue agendado para el proximo lunes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+726,Se comunica a los vecinos que el corte de gas sera martes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+727,Se comunica a los vecinos que el corte de telefonia sera manana de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+728,Ha sido premiado con una laptop. Para recibirlo ingrese sus datos en envios-retenidos.site en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+729,ALERTA: detectamos un acceso no autorizado a su cuenta. Confirme su identidad en gob-tramite.xyz/bono o sera bloqueada.,texto,banco,fraudulento,sintetico,2026-08-25
+730,Su turno para tu tramite fue agendado para el proximo lunes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+731,Se comunica a los vecinos que el corte de telefonia sera el proximo lunes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+732,Su factura de internet ya esta disponible. Vencimiento manana. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+733,Se comunica a los vecinos que el corte de luz sera manana de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+734,Su token de acceso expira antes de las 18:00. Actualice sus datos en bit.ly/3xKq9a para no perder el servicio.,texto,banco,fraudulento,sintetico,2026-08-25
+735,Su documento de identidad vence. Renuevelo en linea en beneficio-estatal.xyz/cobro antes de en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+736,Su paquete de el courier esta retenido en aduana. Pague [MONTO] en envios-retenidos.site para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+737,Recordatorio: tu cita medica es el 15 de este mes a las 11:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+738,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en premios-online.top/ganador antes de las 18:00.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+739,Ha sido premiado con un viaje todo pagado. Para recibirlo ingrese sus datos en actualiza-datos.top/cliente en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+740,Promocion exclusiva: usted es el ganador de un bono de compras. Confirme sus datos en beneficio-estatal.xyz/cobro.,texto,premio,fraudulento,sintetico,2026-08-25
+741,Ha sido premiado con una laptop. Para recibirlo ingrese sus datos en soporte-cuenta.info/urgente en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+742,Su documento de identidad vence. Renuevelo en linea en gob-tramite.xyz/bono antes de hoy.,texto,Estado,fraudulento,sintetico,2026-08-25
+743,Su documento de identidad vence. Renuevelo en linea en actualiza-datos.top/cliente antes de manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+744,ALERTA: detectamos un acceso no autorizado a su cuenta. Confirme su identidad en beneficio-estatal.xyz/cobro o sera bloqueada.,texto,banco,fraudulento,sintetico,2026-08-25
+745,Se comunica a los vecinos que el corte de telefonia sera el 15 de este mes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+746,Su documento de identidad vence. Renuevelo en linea en mi-entidad-segura.com/validar antes de antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+747,"Estimado usuario, se registro un intento de compra por [MONTO]. Si no fue usted, cancele en verificacion-cuenta.xyz/acceso.",texto,banco,fraudulento,sintetico,2026-08-25
+748,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en actualiza-datos.top/cliente en las proximas 2 horas.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+749,Se comunica a los vecinos que el corte de luz sera lunes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+750,Se comunica a los vecinos que el corte de luz sera lunes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+751,Seleccionado para entrevista de trabajo. Confirme sus datos y pague el examen medico [MONTO] en bit.ly/3xKq9a.,texto,empleo,fraudulento,sintetico,2026-08-25
+752,Se comunica a los vecinos que el corte de internet sera lunes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+753,Su turno para tu inscripcion fue agendado para martes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+754,Encomienda pendiente a su nombre. Confirme su direccion y pague [MONTO] aqui: envios-retenidos.site,texto,paqueteria,fraudulento,sintetico,2026-08-25
+755,Se comunica a los vecinos que el corte de telefonia sera lunes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+756,Ha sido premiado con un viaje todo pagado. Para recibirlo ingrese sus datos en actualiza-datos.top/cliente hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+757,Se comunica a los vecinos que el corte de agua sera martes de 08:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+758,Su turno para la renovacion de tu documento fue agendado para lunes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+759,Se comunica a los vecinos que el corte de gas sera el proximo lunes de 10:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+760,Su paquete de el courier esta retenido en aduana. Pague [MONTO] en beneficio-estatal.xyz/cobro para liberarlo.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+761,Su pedido esta detenido por falta de pago aduanero de [MONTO]. Regularice en aduana-pagos.site/tramite en 24 horas.,texto,paqueteria,fraudulento,sintetico,2026-08-25
+762,Usted tiene un bono de [MONTO] disponible. Cobrelo en bit.ly/3xKq9a con su numero de carnet antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+763,FELICIDADES! usted gano Bs. 5.000 en efectivo. Reclamelo en gob-tramite.xyz/bono antes de en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+764,Recordatorio: tu cita medica es manana a las 08:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+765,"Confirmamos su suscripcion por [MONTO] mensual. Si no la reconoce, cancele en actualiza-datos.top/cliente.",texto,otro,fraudulento,sintetico,2026-08-25
+766,Ha sido premiado con un celular de ultima generacion. Para recibirlo ingrese sus datos en verificacion-cuenta.xyz/acceso en 24 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+767,Su turno para tu tramite fue agendado para martes a las 14:30.,texto,otro,legitimo,sintetico,2026-08-25
+768,Se comunica a los vecinos que el corte de luz sera martes de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+769,Se comunica a los vecinos que el corte de internet sera el viernes de 16:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+770,FELICIDADES! usted gano una motocicleta. Reclamelo en bit.ly/3xKq9a antes de hoy.,texto,premio,fraudulento,sintetico,2026-08-25
+771,FELICIDADES! usted gano un viaje todo pagado. Reclamelo en premios-online.top/ganador antes de en las proximas 2 horas.,texto,premio,fraudulento,sintetico,2026-08-25
+772,Su turno para tu inscripcion fue agendado para el proximo lunes a las 11:00.,texto,otro,legitimo,sintetico,2026-08-25
+773,Se comunica a los vecinos que el corte de agua sera manana de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+774,Usted tiene un bono de [MONTO] disponible. Cobrelo en premios-online.top/ganador con su numero de carnet en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+775,Usted tiene un bono de [MONTO] disponible. Cobrelo en mi-entidad-segura.com/validar con su numero de carnet antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+776,Su documento de identidad vence. Renuevelo en linea en empleo-express.info/registro antes de en las proximas 2 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+777,Programa social: usted es beneficiario de [MONTO]. Registre su cuenta en empleo-express.info/registro antes de las 18:00.,texto,Estado,fraudulento,sintetico,2026-08-25
+778,"Vacante urgente medio tiempo, gane [MONTO] semanal sin experiencia. Mas info: aduana-pagos.site/tramite",texto,empleo,fraudulento,sintetico,2026-08-25
+779,Recordatorio: tu cita medica es el proximo lunes a las 10:00. Llega 10 minutos antes por favor.,texto,otro,legitimo,sintetico,2026-08-25
+780,Se comunica a los vecinos que el corte de agua sera el viernes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+781,Su turno para tu inscripcion fue agendado para lunes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+782,Su factura de telefonia ya esta disponible. Vencimiento el viernes. Gracias.,texto,otro,legitimo,sintetico,2026-08-25
+783,Su turno para tu tramite fue agendado para el proximo lunes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+784,Se comunica a los vecinos que el corte de gas sera manana de 14:30 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+785,Su turno para tu inscripcion fue agendado para manana a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+786,el comercio: 20% de descuento este fin de semana en toda la tienda. Te esperamos!,texto,otro,legitimo,sintetico,2026-08-25
+787,Su turno para la renovacion de tu documento fue agendado para el viernes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+788,"Estimado usuario, se registro un intento de compra por [MONTO]. Si no fue usted, cancele en envios-retenidos.site.",texto,banco,fraudulento,sintetico,2026-08-25
+789,Se comunica a los vecinos que el corte de agua sera el 15 de este mes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+790,Se comunica a los vecinos que el corte de internet sera el proximo lunes de 09:15 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+791,Promocion exclusiva: usted es el ganador de un viaje todo pagado. Confirme sus datos en seguro-banca.info/login.,texto,premio,fraudulento,sintetico,2026-08-25
+792,Su turno para la renovacion de tu documento fue agendado para el proximo lunes a las 09:15.,texto,otro,legitimo,sintetico,2026-08-25
+793,Su turno para tu tramite fue agendado para manana a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+794,Su turno para tu consulta medica fue agendado para el proximo lunes a las 08:00.,texto,otro,legitimo,sintetico,2026-08-25
+795,Se comunica a los vecinos que el corte de telefonia sera el 15 de este mes de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
+796,Su turno para tu consulta medica fue agendado para lunes a las 10:00.,texto,otro,legitimo,sintetico,2026-08-25
+797,"Estimado cliente, su cuenta sera suspendida por seguridad. Valide sus datos en premios-online.top/ganador de inmediato.",texto,banco,fraudulento,sintetico,2026-08-25
+798,Su documento de identidad vence. Renuevelo en linea en empleo-express.info/registro antes de en 24 horas.,texto,Estado,fraudulento,sintetico,2026-08-25
+799,Usted tiene un bono de [MONTO] disponible. Cobrelo en premios-online.top/ganador con su numero de carnet manana.,texto,Estado,fraudulento,sintetico,2026-08-25
+800,Se comunica a los vecinos que el corte de luz sera manana de 11:00 a la tarde.,texto,otro,legitimo,sintetico,2026-08-25
