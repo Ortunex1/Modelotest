@@ -54,6 +54,7 @@ sis/
 ## Manuales de estudio
 
 Para estudiar y defender:
+- [Justificación y metodología](docs/JUSTIFICACION_Y_METODOLOGIA.md) — por qué deep learning y CRISP-DM.
 - [Glosario de conceptos](docs/GLOSARIO_CONCEPTOS.md) — los términos clave explicados a fondo.
 - [Guía de defensa](docs/GUIA_DEFENSA.md) — preguntas típicas del tribunal y cómo responderlas.
 - [Manual de datos y pruebas](docs/MANUAL_DATOS_Y_PRUEBAS.md) — flujo de datos, cómo correr y evaluar.
