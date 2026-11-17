@@ -1,0 +1,90 @@
+texto,y_real,pred_beto,prob_beto,pred_baseline,prob_baseline
+SUPERMERCADOS KETAL: Ganaste un vale de consumo de [MONTO] por nuestro sorteo mensual. Registra tus datos para recibirlo: https://tigo-actualiza-linea.info,fraudulento,fraudulento,0.9998,fraudulento,0.8565
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 761765.",legitimo,legitimo,0.0003,legitimo,0.1024
+"Aviso de corte programado de agua de EPSAS en las zonas de El Alto (Satelite, Rio Seco) el jueves de 10:00 a 16:00.",legitimo,legitimo,0.0002,legitimo,0.1366
+BNB MOVIL: Su token digital ha vencido. Renueve su acceso para no perder la disponibilidad de sus fondos: https://bancounion-verificacion-bo.site,fraudulento,fraudulento,0.9998,fraudulento,0.8189
+CORREOS DE BOLIVIA: Tiene una encomienda pendiente de retiro. Confirme su identidad para liberar el paquete: https://att-bloqueo-bolivia.online,fraudulento,fraudulento,0.9998,fraudulento,0.8556
+"TIGO ATENCION: Estimado usuario, su linea sera suspendida por falta de actualizacion de datos. Para evitar la baja ingrese a: https://att-bloqueo-bolivia.online",fraudulento,fraudulento,0.9999,fraudulento,0.9109
+"BANCO FIE: Estimado cliente, su tarjeta de debito presenta un bloqueo preventivo tras validar consumos inusuales en comercios digitales. Verifique desde su aplicacion.",fraudulento,fraudulento,0.9986,fraudulento,0.6021
+"Aviso de corte programado de agua de EPSAS en las zonas de El Alto (Satelite, Rio Seco) el jueves de 9:00 a 15:00.",legitimo,legitimo,0.0002,legitimo,0.1336
+"TIGO ATENCION: Estimado usuario, su linea sera suspendida por falta de actualizacion de datos. Para evitar la baja ingrese a: https://bancounion-verificacion-bo.site",fraudulento,fraudulento,0.9998,fraudulento,0.8985
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 687177.",legitimo,legitimo,0.0003,legitimo,0.1024
+"Aviso de corte programado de agua de EPSAS en las zonas de El Alto (Satelite, Rio Seco) el jueves de 9:00 a 16:00.",legitimo,legitimo,0.0002,legitimo,0.1448
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 182582.",legitimo,legitimo,0.0003,legitimo,0.1024
+"TIGO ATENCION: Estimado usuario, su linea sera suspendida por falta de actualizacion de datos. Para evitar la baja ingrese a: https://gestora-actualizacion-bo.site",fraudulento,fraudulento,0.9998,fraudulento,0.8903
+MINISTERIO DE OBRAS PUBLICAS: Su expediente de licitacion publica presenta observaciones formales en el formulario de garantia de seriedad.,legitimo,fraudulento,0.9963,fraudulento,0.5443
+BCP BOLIVIA: Notificacion de seguridad: Su tarjeta de credito presenta un reporte de bloqueo temporal por transaccion denegada en pasarela internacional.,fraudulento,legitimo,0.4251,fraudulento,0.6914
+SUPERMERCADOS KETAL: Ganaste un vale de consumo de [MONTO] por nuestro sorteo mensual. Registra tus datos para recibirlo: https://att-bloqueo-bolivia.online,fraudulento,fraudulento,0.9998,fraudulento,0.8714
+FARMACIAS BOLIVIA: Tu pedido online con numero #88392 esta siendo empacado por nuestro personal farmaceutico para despacho a domicilio.,legitimo,fraudulento,0.7236,fraudulento,0.6396
+MINISTERIO DE TRABAJO: Recordatorio sobre la presentacion obligatoria de planillas de sueldos y salarios dentro del plazo legal establecido. Evite sanciones administrativas.,legitimo,legitimo,0.0012,legitimo,0.343
+TIGO MONEY: Se ha detectado un acceso simultaneo a su billetera movil desde una ubicacion inusual. Confirme si autorizo dicha conexion.,fraudulento,fraudulento,0.9996,fraudulento,0.6011
+Tu codigo de verificacion para ingresar a Tigo Money es: 942736. Valido por 5 minutos.,legitimo,legitimo,0.0002,legitimo,0.1142
+Tu paquete con Nro de guia 456258 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,legitimo,0.0002,legitimo,0.0806
+CORREOS DE BOLIVIA: Tiene una encomienda pendiente de retiro. Confirme su identidad para liberar el paquete: https://tigo-actualiza-linea.info,fraudulento,fraudulento,0.9998,fraudulento,0.84
+"Aviso de corte programado de agua de EPSAS en las zonas de El Alto (Satelite, Rio Seco) el jueves de 8:00 a 16:00.",legitimo,legitimo,0.0002,legitimo,0.1448
+BNB MOVIL: Su token digital ha vencido. Renueve su acceso para no perder la disponibilidad de sus fondos: https://tigo-actualiza-linea.info,fraudulento,fraudulento,0.9998,fraudulento,0.8208
+ENTEL: Tu paquete de datos ilimitados por 24 horas ha sido activado correctamente. Disfruta tu navegacion. Consulta tu saldo marcando *105#.,legitimo,legitimo,0.0039,legitimo,0.2918
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 423792.",legitimo,legitimo,0.0003,legitimo,0.1024
+CONTRALORIA GENERAL DEL ESTADO: Su declaracion jurada de bienes y rentas requiere validacion complementaria mediante el formulario digital habilitado.,fraudulento,fraudulento,0.9992,fraudulento,0.667
+Tu paquete con Nro de guia 121537 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,legitimo,0.0002,legitimo,0.0806
+TIGO BOLIVIA: Se ha generado una nota de credito a su favor por interrupcion tecnica registrada en su zona. Verifique el abono en su proxima factura.,fraudulento,fraudulento,0.9993,legitimo,0.4603
+Tu paquete con Nro de guia 935984 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,legitimo,0.0002,legitimo,0.0806
+SEDES: Campana masiva de vacunacion antirrabica canina y felina en todos los centros de salud de la red este fin de semana de 08:00 a 16:00.,legitimo,legitimo,0.0003,legitimo,0.225
+BNB MOVIL: Su token digital ha vencido. Renueve su acceso para no perder la disponibilidad de sus fondos: https://bcp-alerta-seguridad.xyz,fraudulento,fraudulento,0.9998,fraudulento,0.8086
+SUPERMERCADOS KETAL: Ganaste un vale de consumo de [MONTO] por nuestro sorteo mensual. Registra tus datos para recibirlo: https://ingreso-bnb-banca.com,fraudulento,fraudulento,0.9998,fraudulento,0.869
+"Aviso de corte programado de agua de EPSAS en las zonas de El Alto (Satelite, Rio Seco) el jueves de 8:00 a 14:00.",legitimo,legitimo,0.0002,legitimo,0.1528
+CORREOS DE BOLIVIA: Tiene una encomienda pendiente de retiro. Confirme su identidad para liberar el paquete: https://gestora-actualizacion-bo.site,fraudulento,fraudulento,0.9998,fraudulento,0.8342
+Tu codigo de verificacion para ingresar a Tigo Money es: 923735. Valido por 5 minutos.,legitimo,legitimo,0.0002,legitimo,0.1142
+"TIGO ATENCION: Estimado usuario, su linea sera suspendida por falta de actualizacion de datos. Para evitar la baja ingrese a: https://impuestos-bolivia-tramites.net",fraudulento,fraudulento,0.9998,fraudulento,0.9204
+GESTORA PUBLICA: Su aporte de pensiones presenta inconsistencias. Evite multas actualizando su registro en: https://bcp-alerta-seguridad.xyz,fraudulento,fraudulento,0.9998,fraudulento,0.7184
+FARMACORP: ¡Solo por hoy! 40% de descuento en dermocosmetica y vitaminas presentando tu carnet en caja o comprando por nuestra app oficial.,legitimo,legitimo,0.0003,legitimo,0.2985
+BNB MOVIL: Su token digital ha vencido. Renueve su acceso para no perder la disponibilidad de sus fondos: https://impuestos-bolivia-tramites.net,fraudulento,fraudulento,0.9998,fraudulento,0.8559
+BANCO FIE: Recordatorio de vencimiento de certificado de aportacion de socio cooperativista correspondiente a la gestion anual.,legitimo,legitimo,0.0018,legitimo,0.3646
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 379399.",legitimo,legitimo,0.0003,legitimo,0.1024
+ENTEL BOLIVIA: Informamos que su contrato de fibra optica hogar aplica a una mejora de velocidad simetrica sin costo adicional previa aceptacion de condiciones.,legitimo,fraudulento,0.997,fraudulento,0.5284
+Tu codigo de verificacion para ingresar a Tigo Money es: 804147. Valido por 5 minutos.,legitimo,legitimo,0.0002,legitimo,0.1142
+Tu codigo de verificacion para ingresar a Tigo Money es: 131149. Valido por 5 minutos.,legitimo,legitimo,0.0002,legitimo,0.1142
+"Aviso de corte programado de agua de EPSAS en las zonas de El Alto (Satelite, Rio Seco) el jueves de 10:00 a 15:00.",legitimo,legitimo,0.0002,legitimo,0.1262
+BNB MOVIL: Su token digital ha vencido. Renueve su acceso para no perder la disponibilidad de sus fondos: https://att-bloqueo-bolivia.online,fraudulento,fraudulento,0.9998,fraudulento,0.8394
+Tu paquete con Nro de guia 606033 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,legitimo,0.0002,legitimo,0.0806
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 659653.",legitimo,legitimo,0.0003,legitimo,0.1024
+MINISTERIO DE TRABAJO: Se recuerda a las empresas privadas que el plazo para el registro del formulario de accidentes de trabajo vence sin prorroga este viernes.,legitimo,legitimo,0.0005,legitimo,0.4138
+"TIGO ATENCION: Estimado usuario, su linea sera suspendida por falta de actualizacion de datos. Para evitar la baja ingrese a: https://tigo-actualiza-linea.info",fraudulento,fraudulento,0.9998,fraudulento,0.8921
+"COOPERATIVA DE TELEFONOS COTEL: Estimado socio, su factura del servicio de television por cable presenta dos meses acumulados. Regularice en oficinas.",legitimo,legitimo,0.007,legitimo,0.4026
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 603191.",legitimo,legitimo,0.0003,legitimo,0.1024
+MINISTERIO DE TRABAJO: Recordatorio oficial sobre la tolerancia laboral establecida para este proximo feriado nacional de acuerdo a decreto.,legitimo,legitimo,0.0007,legitimo,0.4445
+YPFB DISTRIBUCION: Su factura acumulada de gas natural vehicular presenta una alerta de consumo atipico que requiere revision tecnica presencial.,legitimo,fraudulento,0.9984,fraudulento,0.5675
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 899689.",legitimo,legitimo,0.0003,legitimo,0.1024
+DELAPAZ informa: Mantenimiento programado de red electrica en zona Miraflores este sabado de 08:30 a 12:30.,legitimo,legitimo,0.0003,legitimo,0.2994
+CORREOS DE BOLIVIA: Tiene una encomienda pendiente de retiro. Confirme su identidad para liberar el paquete: https://bancounion-verificacion-bo.site,fraudulento,fraudulento,0.9998,fraudulento,0.8375
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 229602.",legitimo,legitimo,0.0003,legitimo,0.1024
+MINISTERIO DE TRABAJO: Comunicado oficial sobre el horario continuo de trabajo dispuesto para este dia viernes en instituciones publicas y privadas.,legitimo,legitimo,0.0005,legitimo,0.38
+"Aviso de corte programado de agua de EPSAS en las zonas de El Alto (Satelite, Rio Seco) el jueves de 8:00 a 15:00.",legitimo,legitimo,0.0002,legitimo,0.1336
+MINISTERIO DE TRABAJO: Aviso de inspeccion tecnica laboral programada para el establecimiento comercial de su representacion legal durante la presente semana.,legitimo,legitimo,0.0005,legitimo,0.4746
+"Aviso de corte programado de agua de EPSAS en las zonas de El Alto (Satelite, Rio Seco) el jueves de 10:00 a 14:00.",legitimo,legitimo,0.0002,legitimo,0.144
+BANCO BISA: La actualizacion de su certificado digital de banca por internet requiere validacion de terminos y condiciones normativos vigentes.,fraudulento,fraudulento,0.9987,fraudulento,0.5199
+"TIGO ATENCION: Estimado usuario, su linea sera suspendida por falta de actualizacion de datos. Para evitar la baja ingrese a: https://bcp-alerta-seguridad.xyz",fraudulento,fraudulento,0.9998,fraudulento,0.8916
+Tu codigo de verificacion para ingresar a Tigo Money es: 376554. Valido por 5 minutos.,legitimo,legitimo,0.0002,legitimo,0.1142
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 795849.",legitimo,legitimo,0.0003,legitimo,0.1024
+"ENTEL: Estimado usuario, su plan de fibra optica corporativa dispone de una actualizacion de protocolos de seguridad en la pasarela de pagos.",fraudulento,fraudulento,0.9989,fraudulento,0.6228
+GESTORA PUBLICA: Su aporte de pensiones presenta inconsistencias. Evite multas actualizando su registro en: https://bancounion-verificacion-bo.site,fraudulento,fraudulento,0.9998,fraudulento,0.7309
+"ENTEL BOLIVIA: Codigo de verificacion 217301. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://bancounion-verificacion-bo.site",fraudulento,fraudulento,0.9998,fraudulento,0.8604
+BANCO FIE: Su cuenta de ahorros presenta una restriccion temporal por incumplimiento en la presentacion de la declaracion jurada anual de ingresos.,fraudulento,fraudulento,0.959,legitimo,0.4645
+ADUANA NACIONAL: Su declaracion de importacion presenta una observación documental menor en el recinto fronterizo. Ingrese al sistema oficial para regularizar el tramite.,fraudulento,fraudulento,0.9996,fraudulento,0.6534
+"Hola, soy el tecnico de sistemas de la oficina, el Licenciado me pidio que te envie el respaldo de las planillas para que les des el visto bueno hoy.",fraudulento,fraudulento,0.9997,fraudulento,0.6475
+MINISTERIO DE ECONOMIA: Aviso sobre el nuevo cronograma de pagos de rentas de jubilacion y beneficios sociales correspondientes al presente mes.,fraudulento,legitimo,0.0021,legitimo,0.3913
+Tu codigo de verificacion para ingresar a Tigo Money es: 147028. Valido por 5 minutos.,legitimo,legitimo,0.0002,legitimo,0.1142
+Tu paquete con Nro de guia 617982 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,legitimo,0.0002,legitimo,0.0806
+"Aviso de corte programado de agua de EPSAS en las zonas de El Alto (Satelite, Rio Seco) el jueves de 09:00 a 14:00.",legitimo,legitimo,0.0002,legitimo,0.1614
+"ENTEL BOLIVIA: Codigo de verificacion 293326. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://gestora-actualizacion-bo.site",fraudulento,fraudulento,0.9998,fraudulento,0.8624
+Tu codigo de verificacion para ingresar a Tigo Money es: 204780. Valido por 5 minutos.,legitimo,legitimo,0.0002,legitimo,0.1142
+BNB MOVIL: Su token digital ha vencido. Renueve su acceso para no perder la disponibilidad de sus fondos: https://ingreso-bnb-banca.com,fraudulento,fraudulento,0.9998,fraudulento,0.8314
+"Aviso de corte programado de agua de EPSAS en las zonas de El Alto (Satelite, Rio Seco) el jueves de 9:00 a 14:00.",legitimo,legitimo,0.0002,legitimo,0.1528
+TIGO: Tu paquete de minutos ilimitados a todas las redes ha concluido con exito. Renueva tu beneficio marcando *222# desde tu linea.,legitimo,legitimo,0.001,legitimo,0.2202
+BANCO GANADERO: Su solicitud de chequera ha sido procesada y se encuentra disponible para recojo personal en la agencia central con su CI.,legitimo,legitimo,0.0045,legitimo,0.2325
+UMSA - FACULTAD DE TECNOLOGIA: Cronograma de defensas de proyecto de grado correspondiente al turno manana publicado en el tablero digital oficial.,legitimo,legitimo,0.0003,legitimo,0.4225
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 197716.",legitimo,legitimo,0.0003,legitimo,0.1024
+Notificacion de seguridad: Su tarjeta de debito registra un intento de transaccion retenido en el exterior. Ingrese a la aplicacion oficial para revisar el estatus de su operacion.,fraudulento,fraudulento,0.9995,fraudulento,0.6967
+"COTAS / TELECOM: Estimado asociado, su factura del servicio de telecomunicaciones de fibra optica ya se encuentra emitida y lista para pago.",legitimo,legitimo,0.0585,legitimo,0.3914
+"TIGO ATENCION: Estimado usuario, su linea sera suspendida por falta de actualizacion de datos. Para evitar la baja ingrese a: https://ingreso-bnb-banca.com",fraudulento,fraudulento,0.9998,fraudulento,0.9091
+CORREOS DE BOLIVIA: Tiene una encomienda pendiente de retiro. Confirme su identidad para liberar el paquete: https://yape-bolivia-bono.online,fraudulento,fraudulento,0.9998,fraudulento,0.8283

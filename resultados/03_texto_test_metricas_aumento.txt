@@ -1,0 +1,20 @@
+EVALUACIÓN FINAL EN TEST — motor de texto — experimento: aumento (Colab, GPU T4, 2026-11-17)
+test = 89 mensajes reales (52 legitimo / 37 fraudulento) | train = 2267 (267 reales + 2000 de aumento)
+Modelo: BETO (dccuchile/bert-base-spanish-wwm-cased), 4 épocas, mejor época por F1 en validación, max_length 96
+Rival:  TF-IDF (1-2 gramas) + Regresión Logística (class_weight=balanced), mismos datos
+
+métrica       BETO   baseline
+exactitud    0.933     0.921
+precision    0.897     0.895
+recall       0.946     0.919
+F1           0.921     0.907
+AUC-ROC      0.992     0.986
+
+Matriz de confusión (filas = real [legitimo, fraudulento], columnas = predicción)
+  BETO    : [[48, 4], [2, 35]]
+  baseline: [[48, 4], [3, 34]]
+
+McNemar (exacta): aciertan ambos=81  solo BETO=2  solo baseline=1  fallan ambos=5
+  p = 1.00000 -> diferencia NO significativa (p >= 0.05)
+
+Criterio técnico F1 >= 0.90: BETO CUMPLE (0.921) | baseline también (0.907)
