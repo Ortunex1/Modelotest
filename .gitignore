@@ -21,3 +21,6 @@ env/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Configuración local de Claude Code (contiene rutas/permisos personales)
+.claude/settings.local.json

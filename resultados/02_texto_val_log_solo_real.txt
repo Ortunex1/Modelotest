@@ -1,0 +1,11 @@
+Experimento: BETO solo reales (CPU local, scripts/entrenar_beto_local.py, MAX_LEN 64, 4 épocas) — 2026-11-17
+train=267 reales | val=89 reales
+
+[BASELINE] F1(fraude) = 0.827
+{'eval_loss': '0.2831', 'eval_accuracy': '0.8652', 'eval_f1_fraudulento': '0.8571', 'eval_recall_fraudulento': '0.973', 'eval_precision_fraudulento': '0.766', 'epoch': '1'}
+{'eval_loss': '0.2548', 'eval_accuracy': '0.8989', 'eval_f1_fraudulento': '0.88', 'eval_recall_fraudulento': '0.8919', 'eval_precision_fraudulento': '0.8684', 'epoch': '2'}
+{'eval_loss': '0.2973', 'eval_accuracy': '0.8876', 'eval_f1_fraudulento': '0.878', 'eval_recall_fraudulento': '0.973', 'eval_precision_fraudulento': '0.8', 'epoch': '3'}
+{'eval_loss': '0.2468', 'eval_accuracy': '0.9101', 'eval_f1_fraudulento': '0.8947', 'eval_recall_fraudulento': '0.9189', 'eval_precision_fraudulento': '0.8718', 'epoch': '4'}
+BETO     F1(fraude) = 0.895
+Baseline F1(fraude) = 0.827
+BETO GANA al baseline

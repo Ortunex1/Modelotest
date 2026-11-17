@@ -1,4 +1,4 @@
-# Manual de código — `scripts/anonimizar.py` y `scripts/kappa.py`, línea por línea
+# Manual de código — scripts del proyecto, línea por línea
 
 Estas dos herramientas son de la **Fase 1 (el corpus)**: una limpia los datos personales
 de los mensajes (obligación ética) y la otra mide el acuerdo entre etiquetadores.
@@ -87,8 +87,20 @@ def _quitar_nombres_ner(texto):
 - Las reemplaza por `[NOMBRE]`, de atrás hacia adelante (para no desordenar las posiciones).
 - Si spaCy no está instalado, avisa y sigue sin fallar.
 
-> ⚠️ Las regex **no** detectan nombres; por eso los nombres necesitan spaCy o **revisión manual**
+> ⚠️ Las regex generales **no** detectan nombres; por eso los nombres necesitan spaCy o **revisión manual**
 > (tal como dice el PDF: "regex + revisión manual").
+
+**Actualización 2026-11-17 — nombres sin spaCy.** Al revisar el corpus aparecieron 10 nombres
+de persona reales (p. ej. "yapeo de *Nombre Apellido*"). Se agregaron dos reglas que **siempre** se aplican:
+
+- `_NOMBRE`: una o dos palabras con mayúscula seguidas de un **apellido frecuente en Bolivia**
+  (Mamani, Quispe, Condori, Choque, Flores, Vargas, …) → `[NOMBRE]`.
+  Ej.: *"yapeo de Juan Carlos Mamani Quispe"* → *"yapeo de [NOMBRE]"*.
+- `_SALUDO_NOMBRE`: un nombre suelto justo después de "Hola" → *"Hola [NOMBRE],"*.
+
+Se quitó "Cruz" de la lista para no borrar "Santa Cruz". Después de anonimizar, `armar_corpus.py`
+deja 0 nombres en las particiones (verificado). Cómo explicarlo: *"la anonimización combina
+expresiones regulares, una lista de apellidos frecuentes y revisión manual"*.
 
 ## Procesar un CSV completo
 
@@ -224,3 +236,76 @@ python scripts/ocr.py carpeta/ data/crudo/ocr.csv           # carpeta -> CSV
 🎓 **Cómo explicarlo:** "Las capturas se convierten a texto con OCR antes de entrar al
 corpus. Uso Tesseract con el idioma español y paso la imagen a escala de grises para
 mejorar la precisión de la lectura."
+
+---
+
+# Parte D — Scripts del corpus de texto y su evaluación (2026-11-17)
+
+Estos cinco scripts forman la **cadena completa** del motor de texto, desde tu Excel hasta el
+número final de la tesis. Se corren **en este orden**:
+
+```
+DOC/datos.xlsx ──► revisar_datos.py ──► corregir_datos.py ──► armar_corpus.py ──► (Colab 02_texto)
+  (reales)          (diagnóstico)        (aplica arreglos)     (particiones)        entrenar + TEST
+DOC/dataset_..tsv ─────────────────────────────────────────────┘
+  (aumento)                       alternativa local: entrenar_beto_local.py ──► evaluar_test_texto.py
+```
+
+## D.1 `revisar_datos.py` — ¿qué sirve y qué no?
+
+**Concepto:** antes de entrenar hay que saber cuántos mensajes son realmente distintos y cuáles
+tienen problemas. No modifica nada; solo **diagnostica**.
+
+- Anonimiza cada mensaje y agrupa los que quedan **iguales** → se queda con el primero.
+  - `repetido_exacto`: la misma fila copiada.
+  - `variante_solo_monto_o_numero`: mismo mensaje con otro monto/teléfono/nombre.
+- Calcula **familias**: mensajes casi iguales (similitud coseno TF-IDF ≥ 0.80, componentes conexas).
+- **Alertas** para revisar a mano:
+  - *fraude sin gancho*: etiquetado `fraudulento` pero no pide nada (regla del gancho).
+  - *fecha futura*: la fecha de recolección no puede ser posterior a hoy.
+  - *el mismo mensaje con las dos etiquetas*: contradicción.
+- Revisa también los mensajes de aumento: repetidos y demasiado parecidos a un real (≥ 0.70).
+
+**Salida:** `DOC/datos_revisados.xlsx` (hojas: resumen, reales_utiles, reales_revisar,
+reales_descartados, aumento_utiles, aumento_descartados). Uso: `python scripts/revisar_datos.py`
+
+## D.2 `corregir_datos.py` — aplicar los arreglos (con respaldo)
+
+**Concepto:** las decisiones de etiquetado quedan **escritas en código**, no hechas a mano en Excel.
+Así son auditables (el tribunal puede ver qué se cambió y por qué).
+
+- Guarda primero `DOC/datos_respaldo_2026-11-17.xlsx`.
+- `A_LEGITIMO`: 20 filas que solo informaban → `legitimo` (con su motivo).
+- `DESCARTAR`: 4 ambiguas → se **mueven** a la hoja `descartados` (no se borran).
+- Corrige 5 fechas futuras y unifica `empresa_courier` → `courier`.
+- Usa `openpyxl` para **no romper el formato** del Excel. Requiere el Excel **cerrado**.
+
+## D.3 `armar_corpus.py` — las particiones (sin fuga)
+
+**Concepto clave — fuga de datos (*data leakage*):** si un mensaje de test tiene un "gemelo"
+casi igual en train, el modelo acierta de memoria y la métrica se infla. Para evitarlo:
+
+1. Anonimiza y quita duplicados **después** de anonimizar.
+2. Agrupa en familias y reparte con `StratifiedGroupKFold`: **cada familia va entera a una sola
+   partición**, manteniendo la proporción fraude/legítimo. Reparto 60/20/20.
+3. Los mensajes de aumento van **solo a train**.
+4. Verifica con `assert`: 0 textos repetidos y 0 familias partidas entre train/val/test.
+
+**Salidas** (anonimizadas, se suben al repo): `corpus_train.csv` (reales + aumento),
+`corpus_train_solo_real.csv`, `corpus_val.csv`, `corpus_test.csv`. Además `DOC/corpus_completo.xlsx`
+(local) con todo junto y la partición de cada mensaje.
+
+> Cómo explicarlo: *"la partición se hizo agrupando mensajes casi idénticos, para que el modelo
+> se evalúe sobre mensajes realmente nuevos y no sobre variantes de lo que ya vio"*.
+
+## D.4 `entrenar_beto_local.py` — BETO en la PC (sin GPU)
+
+Igual que `02_texto` pero por consola. `python scripts/entrenar_beto_local.py [--aumento]`.
+Cada experimento guarda sus archivos con sufijo (`_solo_real` / `_aumento`) para no pisarse.
+En CPU tarda ~10 min con 267 mensajes y >1 h con 2267 → para el experimento con aumento conviene Colab.
+
+## D.5 `evaluar_test_texto.py` — el examen final
+
+Abre el **test una sola vez**: F1, precisión, recall, exactitud, AUC-ROC, matrices de confusión,
+**McNemar exacta** y criterio F1 ≥ 0.90. Guarda las predicciones fila por fila (McNemar las necesita).
+La sección 5 de `02_texto` hace exactamente lo mismo en Colab.

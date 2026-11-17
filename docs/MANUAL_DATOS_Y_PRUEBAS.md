@@ -37,7 +37,11 @@ Carpetas involucradas:
 
 - `data/crudo/` — el dato tal cual llega (CSV de Kaggle, respuestas de la ficha). **No se sube a Git.**
 - `data/anonimizado/` — el corpus ya sin datos personales (`corpus.csv`). **Sí se versiona.**
-- `data/particiones/` — los cortes train/val/test que consume el modelo. **No se sube a Git.**
+- `data/particiones/` — cortes train/val/test del motor de **URL** (Kaggle). **No se sube a Git.**
+- `data/anonimizado/particiones/` — cortes del motor de **texto** (`corpus_train.csv`,
+  `corpus_train_solo_real.csv`, `corpus_val.csv`, `corpus_test.csv`), ya anonimizados.
+  **Sí se versionan** (así Colab los clona sin subir archivos). Los genera `scripts/armar_corpus.py`
+  a partir de `DOC/datos.xlsx` + los mensajes de aumento.
 - `modelos/` — pesos entrenados. **No se sube a Git.**
 - `resultados/` — métricas y figuras del Capítulo IV.
 

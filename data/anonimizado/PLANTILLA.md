@@ -26,10 +26,12 @@ Meta: **500–1.500 mensajes fraudulentos** bien etiquetados + una cantidad pare
 
 Capturas y reenvíos de WhatsApp/SMS de conocidos, grupos comunitarios, reportes públicos y —si se consigue— datos de la FELCC.
 
-## Corpus sintético (semilla)
+## Mensajes de aumento
 
-`corpus_sintetico.csv` (800 mensajes) se genera con `scripts/generar_corpus_sintetico.py`.
-Es **dato sintético** (variaciones controladas), marcado con `fuente=sintetico`.
+> **Actualizado 2026-11-17.** El corpus actual usa los **2000 mensajes de aumento** del usuario
+> (`DOC/dataset_suplantacion_2041_4040.tsv`, `origen = aumento`). El antiguo
+> `corpus_sintetico.csv` (800 mensajes, `scripts/generar_corpus_sintetico.py`) **ya no se usa**;
+> se conserva solo como registro histórico. Ver `docs/BITACORA.md`.
 
 Reglas para usarlo bien:
 - **Declararlo en la tesis** como aumento de datos (cuántos y cómo se generaron).
