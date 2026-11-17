@@ -1,13 +1,13 @@
 """
-Arma el corpus de entrenamiento: junta los mensajes REALES + SINTÉTICOS y los particiona.
+Arma el corpus de entrenamiento: junta los mensajes REALES + mensajes de AUMENTO y los particiona.
 
 Entradas (carpeta DOC/, fuera del repo):
   DOC/datos.xlsx                           reales (primera hoja; la hoja "descartados" se ignora)
-  DOC/dataset_suplantacion_2041_4040.tsv   sintéticos (ya anonimizados)
+  DOC/dataset_suplantacion_2041_4040.tsv   mensajes de aumento (ya anonimizados)
 Salidas:
   data/anonimizado/particiones/  (VERSIONADAS, anonimizadas -> seguras para el repo y Colab)
-      corpus_train.csv            reales de train + TODOS los sintéticos
-      corpus_train_solo_real.csv  solo reales de train (para comparar con/sin sintéticos)
+      corpus_train.csv            reales de train + TODOS los de aumento
+      corpus_train_solo_real.csv  solo reales de train (para comparar con/sin aumento)
       corpus_val.csv / corpus_test.csv   100% REALES
   DOC/corpus_completo.xlsx       (LOCAL) todo junto, con texto original y su partición
 
@@ -15,7 +15,7 @@ Reglas (métricas honestas):
   1. Reales: se ANONIMIZAN y se quitan duplicados DESPUÉS de anonimizar.
   2. "Familias" (mensajes casi iguales, similitud >= 0.80) van ENTERAS a una sola partición
      (StratifiedGroupKFold) -> el modelo no ve en train el "gemelo" de un mensaje de val/test.
-  3. Sintéticos: SOLO train. Se descarta cualquiera casi igual a un real (>= 0.70).
+  3. Aumento: SOLO train (aumento de datos, se declara en la metodología). Se descarta cualquiera casi igual a un real (>= 0.70).
   4. Reparto de reales: 60% train / 20% val / 20% test, estratificado por etiqueta.
 
 Uso: python scripts/armar_corpus.py
@@ -76,7 +76,7 @@ def main():
     r_resto, r_test = separar_grupo(real, 5, SEED)
     r_train, r_val = separar_grupo(r_resto, 4, SEED)
 
-    # ---------- SINTÉTICOS ----------
+    # ---------- AUMENTO ----------
     sint = pd.read_csv(SINT, sep="\t").dropna(subset=["texto", "etiqueta"])
     sint["texto_original"] = sint["texto"].astype(str).str.strip()
     sint["texto"] = sint["texto_original"].map(anonimizar)
@@ -86,8 +86,9 @@ def main():
     sim = cosine_similarity(vec.transform(sint["texto"]), vec.transform(real["texto"])).max(axis=1)
     sint = sint[sim < UMBRAL_SINT_REAL].copy()
     sint["familia"] = ""
-    sint["origen"] = "sintetico"
-    print(f"Sintéticos: {len(sint)} (solo train)")
+    sint["origen"] = "aumento"
+    sint["fuente"] = "aumento"
+    print(f"Aumento: {len(sint)} (solo train)")
 
     # ---------- PARTICIONES ----------
     cols = ["texto", "etiqueta", "origen", "familia"]
@@ -133,7 +134,7 @@ def main():
         print(f"  {n:<24}{len(d):>5} | {d['etiqueta'].value_counts().to_dict()} | {d['origen'].value_counts().to_dict()}")
 
     print("\nParticiones (anonimizadas) en data/anonimizado/particiones/:")
-    linea("train (real+sint)", train); linea("train_solo_real", train_real)
+    linea("train (real+aumento)", train); linea("train_solo_real", train_real)
     linea("val", val); linea("test", test)
     print(f"\nFuga: 0 textos repetidos, 0 familias partidas. "
           f"Gemelos (>= {UMBRAL_FAMILIA}) en train: val={gemelo(val)}, test={gemelo(test)}")

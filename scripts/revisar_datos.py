@@ -3,7 +3,7 @@ Revisa los datos recolectados y los ordena en un Excel: qué sirve, qué se desc
 
 Entradas (carpeta DOC/, fuera del repo):
   DOC/datos.xlsx                            mensajes reales recolectados
-  DOC/dataset_suplantacion_2041_4040.tsv    mensajes sintéticos (fuente = sintetico)
+  DOC/dataset_suplantacion_2041_4040.tsv    mensajes de aumento (redactados, solo para train)
 Salida (LOCAL, contiene texto real sin anonimizar -> NO subir al repo):
   DOC/datos_revisados.xlsx
 
@@ -13,7 +13,7 @@ Reglas:
   - "Familia": mensajes casi iguales (similitud >= UMBRAL_FAMILIA). Sirven, pero valen menos
     y deben ir juntos a la misma partición (para no inflar métricas).
   - Alertas (no descartan, piden revisión manual): fecha futura, etiqueta dudosa según la
-    regla del gancho, sintético demasiado parecido a un real.
+    regla del gancho, mensaje de aumento demasiado parecido a un real.
 
 Uso: python scripts/revisar_datos.py
 """
@@ -39,7 +39,7 @@ SALIDA = DOC / "datos_revisados.xlsx"
 
 HOY = date.today()
 UMBRAL_FAMILIA = 0.80      # real vs real: casi el mismo mensaje
-UMBRAL_SINT_REAL = 0.70    # sintético demasiado parecido a un real -> riesgo de fuga a val/test
+UMBRAL_SINT_REAL = 0.70    # mensaje de aumento demasiado parecido a un real -> riesgo de fuga a val/test
 
 # --- Regla del gancho (heurística) ---
 _ENLACE = re.compile(r"https?://|www\.|\b[\w-]+\.(com|net|org|bo|top|xyz|info|link|site|online|ly|me|co|app|io)\b", re.I)
@@ -132,7 +132,7 @@ def main():
     descart = r[r["estado"] != "util"][["id", "texto", "etiqueta", "fuente", "fecha", "estado", "igual_a_id"]]
     descart = descart.rename(columns={"estado": "motivo"})
 
-    # ---------------- SINTÉTICOS ----------------
+    # ---------------- AUMENTO ----------------
     s["texto"] = s["texto"].astype(str)
     s["texto_anonimizado"] = s["texto"].map(anonimizar)
     s_dup = s["texto_anonimizado"].duplicated()
@@ -163,7 +163,7 @@ def main():
         ("     con alguna alerta para revisar", len(reales_revisar)),
         ("        fecha futura", fut),
         ("", ""),
-        ("SINTÉTICOS (dataset_suplantacion_2041_4040)", ""),
+        ("AUMENTO (dataset_suplantacion_2041_4040)", ""),
         ("Filas", len(s)),
         ("  Repetidos", int(s_dup.sum())),
         ("  Casi iguales a un real (descartados)", int((s["motivo"] == "casi igual a un real (fuga a val/test)").sum())),
@@ -174,7 +174,7 @@ def main():
         ("", ""),
         ("CÓMO SE USAN", ""),
         ("Reales útiles", "train + validación + test (son los únicos que miden de verdad)"),
-        ("Sintéticos útiles", "SOLO train (aumento de datos, se declara en la metodología)"),
+        ("Aumento útiles", "SOLO train (aumento de datos, se declara en la metodología)"),
         ("Familias", "sirven, pero cada familia va entera a una sola partición"),
         ("Alertas", "revisar a mano: corregir etiqueta/fecha o borrar la fila en datos.xlsx"),
         ("Revisado el", str(HOY)),
@@ -186,8 +186,8 @@ def main():
         reales_utiles.to_excel(xw, sheet_name="reales_utiles", index=False)
         reales_revisar.to_excel(xw, sheet_name="reales_revisar", index=False)
         descart.to_excel(xw, sheet_name="reales_descartados", index=False)
-        sint_utiles.to_excel(xw, sheet_name="sinteticos_utiles", index=False)
-        sint_desc.to_excel(xw, sheet_name="sinteticos_descartados", index=False)
+        sint_utiles.to_excel(xw, sheet_name="aumento_utiles", index=False)
+        sint_desc.to_excel(xw, sheet_name="aumento_descartados", index=False)
         for ws in xw.book.worksheets:
             ws.freeze_panes = "A2"
             for col in ws.columns:
