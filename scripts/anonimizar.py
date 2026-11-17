@@ -40,6 +40,25 @@ _TEL_MOVIL = re.compile(r"\b[67]\d{7}\b")
 # 4) Números largos restantes (cuentas / cédulas de 7+ dígitos)
 _NUM_LARGO = re.compile(r"\b\d{7,}\b")
 
+# 5) Nombres de persona "Nombre Apellido" con apellidos frecuentes en Bolivia.
+#    (Sin spaCy no hay forma general de detectar nombres; esta lista cubre los del corpus.
+#     Lo que no atrape debe revisarse a mano -> revisar_datos.py / armar_corpus.py lo reportan.)
+_APELLIDOS = (
+    "Mamani|Quispe|Condori|Choque|Flores|Vargas|Apaza|Ticona|Colque|Huanca|Limachi|Callisaya|"
+    "Chura|Poma|Copa|Yujra|Tarqui|Nina|Aruquipa|Alanoca|Ortuño|Laura|Ramos|Rojas|Torrez|"
+    "Gutierrez|Gutiérrez|Rodriguez|Rodríguez|Lopez|López|Perez|Pérez|Garcia|García|Gonzales|"
+    "González|Fernandez|Fernández|Martinez|Martínez|Sanchez|Sánchez|Mendoza|Morales|Castro|"
+    "Ortiz|Gomez|Gómez|Diaz|Díaz|Romero|Herrera|Medina|Aguilar|Salazar|Vasquez|Vásquez|Chavez|Chávez"
+)
+_NOMBRE = re.compile(
+    rf"\b[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+(?:\s+[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)?\s+(?:{_APELLIDOS})"
+    rf"(?:\s+(?:{_APELLIDOS}))?\b"
+)
+# 6) Nombre suelto tras un saludo: "Hola Roxana," -> "Hola [NOMBRE],"
+_SALUDO_NOMBRE = re.compile(
+    r"(?<=\b[Hh]ola )(?!Cliente|Usuario|Estimad)[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+(?=\s*[,!.])"
+)
+
 
 def anonimizar(texto, usar_ner=False):
     """Devuelve el texto con los datos personales reemplazados por etiquetas.
@@ -56,6 +75,8 @@ def anonimizar(texto, usar_ner=False):
     t = _TEL_INTL.sub("[TELEFONO]", t)
     t = _TEL_MOVIL.sub("[TELEFONO]", t)
     t = _NUM_LARGO.sub("[NUMERO]", t)
+    t = _NOMBRE.sub("[NOMBRE]", t)
+    t = _SALUDO_NOMBRE.sub("[NOMBRE]", t)
 
     if usar_ner:
         t = _quitar_nombres_ner(t)
@@ -114,6 +135,8 @@ def _pruebas():
          ["[MONTO]"]),
         ("Escribe a soporte@banco.com o al +591 7012 3456",
          ["[EMAIL]", "[TELEFONO]"]),
+        ("Has recibido un yapeo de Juan Carlos Mamani Quispe por Bs. 50",
+         ["[NOMBRE]", "[MONTO]"]),
         ("Recordatorio: tu cita es manana a las 10",
          []),  # no debe cambiar nada sensible
     ]

@@ -25,8 +25,13 @@ Fraudes **bien redactados**, sin errores, que imitan el tono real de un banco o 
 
 Ejemplos (ilustrativos):
 - *"Estimado cliente, por su seguridad detectamos actividad inusual en su cuenta. Comuníquese con nuestra línea de atención para verificar su identidad."* (sin enlace obvio, pide llamar)
-- *"Su solicitud de crédito fue preaprobada. Un asesor se comunicará con usted en las próximas horas."* (suena normal, pero es gancho)
-- *"Actualización de términos y condiciones de su cuenta. Revise los cambios en el portal oficial."* (imita comunicación real)
+- *"Su solicitud de crédito fue preaprobada. Para el desembolso, confirme sus datos con su asesor al [TELEFONO]."* (suena normal, pero el gancho es un número no oficial)
+- *"Actualización de términos y condiciones de su cuenta. Acepte los cambios en bancounion-terminos.com."* (imita comunicación real, pero el dominio no es el oficial)
+
+> ⚠️ **Todo fraude debe tener un gancho**, aunque sea sutil: un enlace, un número no oficial,
+> un pedido de datos/código/pago. Un mensaje que **solo informa** o te manda a una **oficina,
+> app o web oficial** es **legítimo**, aunque venga por un canal raro. Si no puedes decidir
+> solo con el texto, **no lo incluyas**.
 
 👉 **Dónde buscarlos:** reportes de estafas "sofisticadas", grupos de víctimas, casos que engañaron a gente con experiencia.
 

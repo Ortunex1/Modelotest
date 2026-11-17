@@ -1,0 +1,268 @@
+texto,etiqueta,origen,familia
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 476417.",legitimo,real,R0087
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 242713.",legitimo,real,R0044
+"TIGO: Informamos que realizaremos migracion de nodos en su zona esta noche. Para mantener su servicio activo, reinicie su equipo tras recibir la confirmacion.",fraudulento,real,R0175
+VICEMINISTERIO DE TRANSPORTE: El registro de su licencia de operacion de transporte pesado requiere la presentacion de poliza de seguro vigente.,fraudulento,real,R0261
+BANCO MERCANTIL: Informamos que los protocolos de validacion periodica de identidad han cambiado. Verifique los nuevos requisitos en la seccion informativa de nuestra banca digital.,fraudulento,real,R0167
+CNS - HOSPITAL MATERNO INFANTIL: Su turno de atencion en pediatria ha sido asignado para el dia miercoles a horas 09:15 en consultorio 4.,legitimo,real,R0240
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 945180.",legitimo,real,R0058
+MULTICINE: ¡Funcion especial confirmada! No olvides presentar tu codigo QR digital en el ingreso de salas 3D este fin de semana.,legitimo,real,R0305
+YAPE BOLIVIA: Recibiste un yapeo de [NOMBRE] por [MONTO] Revisa tu saldo actualizado en la aplicacion.,legitimo,real,R0197
+"Alerta de seguridad: Su cuenta presenta actividad sospechosa desde Santa Cruz. Si no fue usted, cancele la operacion en: https://gestora-actualizacion-bo.site",fraudulento,real,R0113
+CORREOS DE BOLIVIA: Intentamos entregar su paquete certificado en el domicilio registrado sin exito. Reprograme la visita o retire en agencia central.,fraudulento,real,R0193
+Tu paquete con Nro de guia 799716 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0122
+"BANCO MERCANTIL: Se ha registrado una solicitud de cambio de correo electronico asociado a su token digital. Si usted no realizo esta gestion, notifiquelo inmediatamente.",fraudulento,real,R0300
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 209780.",legitimo,real,R0118
+BANCO UNION: Codigo de autorizacion temporal para operacion QR: 467149. No lo divulgue por ningun motivo.,legitimo,real,R0158
+DHL BOLIVIA: Su envio internacional no pudo ser entregado por direccion incompleta. Actualice datos y pague tasa de [MONTO] en: https://att-bloqueo-bolivia.online,fraudulento,real,R0105
+DHL BOLIVIA: Su envio internacional no pudo ser entregado por direccion incompleta. Actualice datos y pague tasa de [MONTO] en: https://bcp-alerta-seguridad.xyz,fraudulento,real,R0105
+BANCO UNION: En su cuenta registramos un intento de ingreso sospechoso. Desbloquee sus accesos en: https://att-bloqueo-bolivia.online,fraudulento,real,R0004
+BCP: Su tarjeta de debito termina en 1801. Se ha aplicado con exito el descuento de temporada en comercios adheridos.,legitimo,real,R0262
+Tu paquete con Nro de guia 482019 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0013
+"ENTEL BOLIVIA: Codigo de verificacion 736124. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://tigo-actualiza-linea.info",fraudulento,real,R0018
+"Hola vecino, te mando el pago por QR de las compras de ayer, escanea e ingresa tus datos bancarios para confirmar el abono de [MONTO]: https://impuestos-bolivia-tramites.net",fraudulento,real,R0008
+Recordatorio de cita medica en Caja Nacional de Salud (CNS) Policlinico Central manana a horas 08:30.,legitimo,real,R0108
+"ENTEL BOLIVIA: Codigo de verificacion 254426. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://impuestos-bolivia-tramites.net",fraudulento,real,R0039
+SUPERMERCADOS KETAL: ¡Beneficio Club Ketal! Acumulaste 140 puntos nuevos en tu ultima compra registrada con tu carnet de identidad.,legitimo,real,R0228
+"[NOMBRE], recordarte que la cita para la firma de contrato es manana a las 8:00 en la oficina central.",legitimo,real,R0017
+"Estimado colega, le escribo de parte de la administracion del edificio para coordinar el reembolso de las expensas pagadas por duplicado este mes.",fraudulento,real,R0205
+DHL BOLIVIA: Su envio internacional no pudo ser entregado por direccion incompleta. Actualice datos y pague tasa de [MONTO] en: https://impuestos-bolivia-tramites.net,fraudulento,real,R0105
+SEGIP BOLIVIA: Su cedula de identidad presenta observacion en el sistema biométrico. Agende validacion urgente: https://ingreso-bnb-banca.com,fraudulento,real,R0119
+BCP: Su cuota de credito hipotecario por [MONTO] fue debitada correctamente de su cuenta de ahorros. Gracias por su puntualidad.,legitimo,real,R0244
+"Estimado socio de BNB, le recordamos que la cuota de su credito vence este viernes. Evite mora e intereses.",legitimo,real,R0009
+Tu codigo de verificacion para ingresar a Tigo Money es: 431040. Valido por 5 minutos.,legitimo,real,R0079
+Atencion de Tigo Money: Le transferimos por error [MONTO] Ingrese a https://gestora-actualizacion-bo.site para rechazar el pago o su cuenta sera congelada por la ASFI.,fraudulento,real,R0012
+Tu codigo de verificacion para ingresar a Tigo Money es: 186360. Valido por 5 minutos.,legitimo,real,R0077
+"BANCO GANADERO: Codigo de verificacion 315516 para recuperacion de contrasena. Si no lo solicito, bloquee su usuario al [NUMERO].",legitimo,real,R0224
+BANCO UNION: Codigo de autorizacion temporal para operacion QR: 322336. No lo divulgue por ningun motivo.,legitimo,real,R0158
+Factura Entel: Su consumo del mes es de [MONTO] Cancele antes del 11 del mes a traves de su banca movil.,legitimo,real,R0007
+Factura Entel: Su consumo del mes de julio es de [MONTO] Cancele antes del 5 de septiembre a traves de su banca movil.,legitimo,real,R0007
+"Primo, cambie de numero temporalmente porque se me dano el celular. Necesito transferir urgente [MONTO] pero mi app fallo, hacemelo el favor.",fraudulento,real,R0140
+"Estimado socio de BNB, le recordamos que la cuota de su credito vence este 10 del mes. Evite mora e intereses.",legitimo,real,R0026
+"Alerta de seguridad: Su cuenta presenta actividad sospechosa desde Santa Cruz. Si no fue usted, cancele la operacion en: https://impuestos-bolivia-tramites.net",fraudulento,real,R0113
+Factura Entel: Su consumo del mes es de [MONTO] Cancele antes del 15 del mes a traves de su banca movil.,legitimo,real,R0007
+UNIVERSIDAD MAYOR DE SAN ANDRES: Comunicado oficial del Decanato sobre el proceso de inscripcion y habilitacion de materias para la gestión academica.,legitimo,real,R0154
+AUTORIDAD DE FISCALIZACION DE ELECTRICIDAD: Notificacion sobre la modificacion de pliegos tarifarios aplicables a suministros comerciales a partir del proximo periodo.,legitimo,real,R0296
+BANCO UNION: Su cuenta registramos un intento de ingreso sospechoso. Desbloquee sus accesos en: https://impuestos-bolivia-tramites.net,fraudulento,real,R0004
+Tu codigo de verificacion para ingresar a Tigo Money es: 233885. Valido por 5 minutos.,legitimo,real,R0064
+YPFB: Su factura de consumo industrial de gas natural registra un saldo insoluto que requiere regularizacion para evitar corte de suministro.,fraudulento,real,R0266
+"ENTEL BOLIVIA: Codigo de verificacion 524025. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://tigo-actualiza-linea.info",fraudulento,real,R0018
+BANCO UNION: Su cuenta registramos un intento de ingreso sospechoso. Desbloquee sus accesos en: https://att-bloqueo-bolivia.online,fraudulento,real,R0004
+Tu paquete con Nro de guia 448461 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0131
+"ENTEL BOLIVIA: Codigo de verificacion 246316. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://att-bloqueo-bolivia.online",fraudulento,real,R0043
+TIGO: Tu paquete de television pagada por streaming ha sido renovado automaticamente. Gracias por elegir nuestros servicios.,legitimo,real,R0284
+"Urgente mama, me asaltaron cerca del Cruce Villa Adela y perdi mi billetera. Mandame un saldo Tigo de [MONTO] o transfiereme por QR a este amigo.",fraudulento,real,R0022
+"Urgente papa, me asaltaron cerca del Cruce Villa Adela y perdi mi billetera. Mandame un saldo Tigo de [MONTO] a este numero porfa.",fraudulento,real,R0014
+BCP BOLIVIA: Se ha bloqueado preventivamente su tarjeta de debito por compra inusual de [MONTO] Verifique en: https://tigo-actualiza-linea.info,fraudulento,real,R0124
+DHL EXPRESS: Su paquete internacional presenta un retraso temporal en el centro de distribucion regional por protocolo de revision de seguridad.,legitimo,real,R0241
+Tu codigo de verificacion para ingresar a Tigo Money es: 487931. Valido por 5 minutos.,legitimo,real,R0095
+FUNDACION PIEB: Convocatoria abierta para la presentacion de propuestas de investigacion academica con financiamiento concursable para la gestion.,legitimo,real,R0311
+"Estimado socio de BNB, le recordamos que la cuota de su credito vence este 5 de septiembre. Evite mora e intereses.",legitimo,real,R0009
+"Hola vecino, te mando el pago por QR de las compras de ayer, escanea e ingresa tus datos bancarios para confirmar el abono de [MONTO]: https://tigo-actualiza-linea.info",fraudulento,real,R0008
+"Alerta de seguridad: Su cuenta presenta actividad sospechosa desde Santa Cruz. Si no fue usted, cancele la operacion en: https://tigo-actualiza-linea.info",fraudulento,real,R0113
+BANCO UNION: Codigo de autorizacion temporal para operacion QR: 948104. No lo divulgue por ningun motivo.,legitimo,real,R0158
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 975012.",legitimo,real,R0067
+Tu paquete con Nro de guia 408894 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0082
+Atencion de Tigo Money: Le transferimos por error [MONTO] Ingrese a https://att-bloqueo-bolivia.online para rechazar el pago o su cuenta sera congelada por la ASFI.,fraudulento,real,R0012
+GESTORA PUBLICA: Su empleador registro una rectificacion en las cotizaciones del periodo pasado. Descargue el extracto actualizado desde la oficina virtual.,fraudulento,real,R0198
+DHL EXPRESS: Su paquete internacional se encuentra retenido en aduana aeroportuaria por falta de descripcion arancelaria detallada.,legitimo,real,R0268
+Tu paquete con Nro de guia 686465 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0068
+CORREOS DE BOLIVIA: Encomienda internacional LE265630637BO lista para entrega en sucursal central con presentacion de documento original.,legitimo,real,R0231
+IMPUESTOS NACIONALES: Se ha emitido una citacion de verificacion fiscal correspondiente al periodo tributario actual. Revise el detalle de su buzón tributario oficial.,fraudulento,real,R0147
+IMPUESTOS NACIONALES: Tienes un embargo preventivo por deuda de [MONTO] Regulariza inmediatamente en: https://ingreso-bnb-banca.com,fraudulento,real,R0006
+BANCO UNION: Confirmamos el debito automatico de [MONTO] por pago de servicio de telecomunicaciones. Nro de comprobante 587776.,legitimo,real,R0178
+"BANCO SOL: Estimado cliente, su cuota vence en 48 horas. Asegurese de contar con saldo suficiente en su caja de ahorro terminada en 5957.",legitimo,real,R0192
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 521600.",legitimo,real,R0036
+YAPE BOLIVIA: Tienes un abono pendiente de aceptacion por [MONTO] Confirma tu cuenta aqui: https://impuestos-bolivia-tramites.net,fraudulento,real,R0107
+SUPERMERCADOS KETAL: Felicitaciones por su fidelidad como cliente destacado. Hemos preparado un beneficio de puntos dobles canjeables durante este fin de semana en todas las cajas.,legitimo,real,R0168
+BANCO MERCANTIL: Su cuenta institucional registra una solicitud de modificacion de limites para transferencias mayores. Verifique los detalles en su banca web.,fraudulento,real,R0267
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 260265.",legitimo,real,R0089
+REGISTRO CIVIL: Su partida de matrimonio electronica ya se encuentra disponible para descarga segura en la plataforma de servicios digitales.,fraudulento,real,R0256
+"ENTEL BOLIVIA: Codigo de verificacion 174999. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://att-bloqueo-bolivia.online",fraudulento,real,R0043
+"Hola vecino, te mando el pago por QR de las compras de ayer, escanea e ingresa tus datos bancarios para confirmar el abono de [MONTO]: https://gestora-actualizacion-bo.site",fraudulento,real,R0008
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 149673.",legitimo,real,R0083
+UNIVERSIDAD MAYOR DE SAN ANDRES: Aviso importante de la direccion administrativa sobre el cronograma oficial de habilitacion de mesas examinadoras.,legitimo,real,R0166
+"Alerta de seguridad: Su cuenta presenta actividad sospechosa desde Santa Cruz. Si no fue usted, cancele la operacion en: https://att-bloqueo-bolivia.online",fraudulento,real,R0113
+VICEMINISTERIO DE TRIBUTACION: Su expediente fiscal registra un saldo pendiente de emision de solvencia fiscal corporativa.,fraudulento,real,R0236
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 254635.",legitimo,real,R0138
+"Alerta de seguridad: Su cuenta presenta actividad sospechosa desde Santa Cruz. Si no fue usted, cancele la operacion en: https://bancounion-verificacion-bo.site",fraudulento,real,R0113
+"BANCO UNION: Su codigo de verificacion OTP es 327580. Valido por 3 minutos. Nunca comparta este codigo con ninguna persona, ni siquiera funcionarios.",legitimo,real,R0146
+POLICLINICO CENTRAL CNS: Le recordamos que debe recoger los resultados de sus examenes de laboratorio manana de 07:30 a 11:00 con su boleta.,legitimo,real,R0174
+BCP: Su tarjeta de CREDITO VISA termina en 9653. Se ha aplicado el cargo por membresia anual conforme a tarifario vigente.,legitimo,real,R0299
+Tu paquete con Nro de guia 245447 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0072
+Tu codigo de verificacion para ingresar a Tigo Money es: 938410. Valido por 5 minutos.,legitimo,real,R0005
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 408536.",legitimo,real,R0081
+"ENTEL BOLIVIA: Codigo de verificacion 463951. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://impuestos-bolivia-tramites.net",fraudulento,real,R0039
+BANCO MERCANTIL SANTA CRUZ: Actualice sus datos biometricos en las proximas 24 horas o su cuenta sera restringida: https://impuestos-bolivia-tramites.net,fraudulento,real,R0130
+SEGIP BOLIVIA: Su cedula de identidad presenta observacion en el sistema biométrico. Agende validacion urgente: https://att-bloqueo-bolivia.online,fraudulento,real,R0119
+Factura Entel: Su consumo del mes es de [MONTO] Cancele antes del 16 del mes a traves de su banca movil.,legitimo,real,R0007
+"Estimado cliente, su credito preautorizado se encuentra pendiente de confirmacion final. Ingrese a la plataforma oficial para validar sus datos de desembolso y evitar la caducidad de la oferta.",fraudulento,real,R0157
+MULTICINE: ¡Semana del Cine Boliviano! Entradas a [MONTO] en todas nuestras salas y horarios. Promocion valida en boleteria y aplicacion movil.,legitimo,real,R0211
+Tu paquete con Nro de guia 333833 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0078
+SERVIENTREGA: La guia de transporte presenta una observacion en el telefono de contacto del destinatario. Actualice la referencia para evitar devolucion.,fraudulento,real,R0207
+Tu codigo de verificacion para ingresar a Tigo Money es: 336659. Valido por 5 minutos.,legitimo,real,R0032
+BANCO FIE: Su deposito a plazo fijo Nro 27440 vence en 5 dias. Acerquese a su agencia para instruir renovacion o retiro.,legitimo,real,R0213
+VIVA: Su linea prepago ha acumulado puntos suficientes para canjear paquetes de navegacion nocturna sin costo adicional desde la app oficial.,fraudulento,real,R0177
+MULTICINE: ¡Ultima funcion! Boleteria informa que quedan menos de 20 asientos disponibles para la premiere de esta noche en sala XD.,legitimo,real,R0246
+DHL BOLIVIA: Su envio internacional no pudo ser entregado por direccion incompleta. Actualice datos y pague tasa de [MONTO] en: https://ingreso-bnb-banca.com,fraudulento,real,R0105
+"Hola vecino, te mando el pago por QR de las compras de ayer, escanea e ingresa tus datos bancarios para confirmar el abono de [MONTO]: https://ingreso-bnb-banca.com",fraudulento,real,R0008
+"Estimado socio de BNB, le recordamos que la cuota de su credito vence este 12 de agosto. Evite mora e intereses.",legitimo,real,R0026
+"Estimado socio de BNB, le recordamos que la cuota de su credito vence este 16 del mes. Evite mora e intereses.",legitimo,real,R0026
+TIGO MONEY: Su billetera movil registra un intento de vinculacion con numero OTP desconocido. Confirme si usted autorizo esta solicitud.,fraudulento,real,R0259
+CNS - HOSPITAL URGENCIAS: Se recuerda a los asegurados que la atencion en medicina general por emergencias opera las 24 horas del dia.,legitimo,real,R0279
+"ENTEL BOLIVIA: Codigo de verificacion 272683. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://impuestos-bolivia-tramites.net",fraudulento,real,R0039
+BCP: Confirmamos la recepcion de transferencia interbancaria ACH por [MONTO] enviada por [NOMBRE]. Ref: 939730.,legitimo,real,R0202
+Tu codigo de verificacion para ingresar a Tigo Money es: 634277. Valido por 5 minutos.,legitimo,real,R0088
+BANCO BISA: Transaccion exitosa por [MONTO] mediante QR institucional a favor de [NOMBRE]. Operacion segura.,legitimo,real,R0264
+TIGO MONEY: Su cuenta presenta una alerta por transacciones superiores al perfil declarado. Complete la actualizacion de datos en linea.,fraudulento,real,R0229
+IMPUESTOS NACIONALES: Tienes un embargo preventivo por deuda de [MONTO] Regulariza inmediatamente en: https://bancounion-verificacion-bo.site,fraudulento,real,R0006
+"Hola [NOMBRE], recordarte que la cita para la firma de contrato es manana a las 10:00 en la oficina central.",legitimo,real,R0017
+BANCO UNION: Su cuenta registramos un intento de ingreso sospechoso. Desbloquee sus accesos en: https://bancounion-verificacion-bo.site,fraudulento,real,R0004
+Tu paquete con Nro de guia 701860 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0031
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 458081.",legitimo,real,R0040
+"BANCO UNION: Su codigo de verificacion OTP es 523155. Valido por 3 minutos. Nunca comparta este codigo con ninguna persona, ni siquiera funcionarios.",legitimo,real,R0146
+Tu paquete con Nro de guia 846329 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0111
+EPSAS: Comunicado operativo: Restriccion temporal del servicio de agua potable en zona sur por trabajos de interconexion de redes principales.,legitimo,real,R0274
+Tu paquete con Nro de guia 587745 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0027
+BCP BOLIVIA: Se ha bloqueado preventivamente su tarjeta de debito por compra inusual de [MONTO] Verifique en: https://bancounion-verificacion-bo.site,fraudulento,real,R0124
+"ENTEL BOLIVIA: Codigo de verificacion 126998. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://tigo-actualiza-linea.info",fraudulento,real,R0018
+CNS - HOSPITAL CHUQUIAGUILLO: Recordatorio de su cita medica programada en la especialidad de odontologia para este jueves a horas 10:30.,legitimo,real,R0309
+Tu codigo de verificacion para ingresar a Tigo Money es: 955930. Valido por 5 minutos.,legitimo,real,R0134
+Atencion de Tigo Money: Le transferimos por error [MONTO] Ingrese a https://bancounion-verificacion-bo.site para rechazar el pago o su cuenta sera congelada por la ASFI.,fraudulento,real,R0012
+"ENTEL BOLIVIA: Codigo de verificacion 984538. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://impuestos-bolivia-tramites.net",fraudulento,real,R0039
+MINISTERIO DE EDUCACION: Se amplia el plazo para la verificacion de datos del registro estudiantil en la plataforma academica hasta el lunes.,legitimo,real,R0176
+SUPERMERCADOS KETAL: ¡Mega Liquidación! 30% de devolucion en saldo de tarjeta registrando tus compras superiores a [MONTO] hoy.,legitimo,real,R0165
+"ENTEL BOLIVIA: Codigo de verificacion 916956. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://impuestos-bolivia-tramites.net",fraudulento,real,R0039
+HIPERMAXI: ¡Ultimas horas! 25% de descuento directo en electrodomesticos seleccionados pagando al contado o con QR en nuestras salas de La Paz y El Alto.,legitimo,real,R0217
+DHL Express: El despacho de su correspondencia internacional se encuentra retenido por falta de comprobante de domicilio actualizado. Complete el tramite en linea.,fraudulento,real,R0159
+VIVA BOLIVIA: Felicidades! Ganaste un bono de megas ilimitados y [MONTO] por aniversario. Reclama aqui: https://ingreso-bnb-banca.com,fraudulento,real,R0129
+BANCO UNION: Su cuenta registramos un intento de ingreso sospechoso. Desbloquee sus accesos en: https://tigo-actualiza-linea.info,fraudulento,real,R0004
+UMSA - FACULTAD DE DERECHO: Publicacion oficial de notas del examen de suficiencia correspondiente al curso de verano en el sistema academic.,legitimo,real,R0306
+Tu paquete con Nro de guia 512414 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0142
+"Hola pariente, me quede varado en la tranca de Achica Arriba y la policia me pide multa. ¿Me prestas [MONTO] por QR? Te devuelvo en la tarde.",fraudulento,real,R0002
+YAPE BOLIVIA: Has transferido con exito [MONTO] a [NOMBRE]. Operacion procesada en la red QR.,legitimo,real,R0239
+"ENTEL BOLIVIA: Codigo de verificacion 833289. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://att-bloqueo-bolivia.online",fraudulento,real,R0043
+SIMPLE QR: Su comercio afiliado registra una actualizacion pendiente en los certificados de seguridad para la recepcion de pagos interbancarios.,fraudulento,real,R0208
+TIGO: Gracias por su pago puntual. Su factura del mes ha sido cancelada exitosamente y su linea continua activa sin restricciones.,legitimo,real,R0196
+Tu codigo de verificacion para ingresar a Tigo Money es: 642653. Valido por 5 minutos.,legitimo,real,R0101
+IMPUESTOS NACIONALES: Tienes un embargo preventivo por deuda de [MONTO] Regulariza inmediatamente en: https://tigo-actualiza-linea.info,fraudulento,real,R0006
+IMPUESTOS NACIONALES: Tienes un embargo preventivo por deuda de [MONTO] Regulariza inmediatamente en: https://att-bloqueo-bolivia.online,fraudulento,real,R0006
+EPSAS: Informamos que se restablecio el suministro de agua potable en los macrodistritos afectados tras concluir la reparacion de la tuberia matriz.,legitimo,real,R0173
+TIGO: Informamos que la garantia tecnica de su equipo en comodato ha concluido. Conozca los beneficios de renovacion y soporte extendido en nuestra web.,legitimo,real,R0285
+Confirmacion de pago QR recibido por [MONTO] en tu cuenta. Titular: [NOMBRE].,legitimo,real,R0015
+BANCO BISA: Su codigo OTP de validacion es 766200 para cambio de clave de acceso web. No lo comparta con funcionarios ni terceros.,legitimo,real,R0310
+CORREOS DE BOLIVIA: Aviso de llegada de correspondencia postal nacional con codigo CR981375536BO para recojo en oficina.,legitimo,real,R0258
+"ENTEL BOLIVIA: Codigo de verificacion 543359. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://tigo-actualiza-linea.info",fraudulento,real,R0018
+BANCO UNION: Codigo de autorizacion temporal para operacion QR: 116002. No lo divulgue por ningun motivo.,legitimo,real,R0158
+Factura Entel: Su consumo del mes es de [MONTO] Cancele antes del 15 de septiembre a traves de su banca movil.,legitimo,real,R0007
+"Alerta de seguridad: Su cuenta presenta actividad sospechosa desde Santa Cruz. Si no fue usted, cancele la operacion en: https://ingreso-bnb-banca.com",fraudulento,real,R0113
+"Estimado socio de BNB, le recordamos que la cuota de su credito vence este 15 de agosto. Evite mora e intereses.",legitimo,real,R0026
+SUPERMERCADOS KETAL: ¡Aprovecha hoy! 50% de descuento en toda la seccion de limpieza pagando con tus tarjetas participantes. Valido solo en sucursales fisicas.,legitimo,real,R0152
+TIGO MONEY: Enviaste [MONTO] a [NOMBRE]. Tu nuevo saldo disponible es [MONTO] ID Transaccion: [NUMERO].,legitimo,real,R0199
+DHL BOLIVIA: Su envio internacional no pudo ser entregado por direccion incompleta. Actualice datos y pague tasa de [MONTO] en: https://yape-bolivia-bono.online,fraudulento,real,R0105
+"ENTEL BOLIVIA: Codigo de verificacion 375204. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://impuestos-bolivia-tramites.net",fraudulento,real,R0039
+Tu codigo de verificacion para ingresar a Tigo Money es: 382996. Valido por 5 minutos.,legitimo,real,R0128
+"Alerta de seguridad: Su cuenta presenta actividad sospechosa desde Santa Cruz. Si no fue usted, cancele la operacion en: https://yape-bolivia-bono.online",fraudulento,real,R0113
+EPSAS: Aviso de interrupcion programada del servicio de agua potable en zona Miraflores por trabajos de mantenimiento correctivo de valvulas.,legitimo,real,R0288
+"UMSA - POSGRADO: Estimado maestrante, se recuerda que el vencimiento de la segunda cuota de colegiatura es este sabado. Evite recargos administrativos.",legitimo,real,R0219
+Tu paquete con Nro de guia 104637 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0073
+FEDEX BOLIVIA: Su envio comercial requiere la declaracion de valor aduanero para proceder con el aforo documental en el aeropuerto de El Alto.,fraudulento,real,R0225
+"ENTEL BOLIVIA: Codigo de verificacion 237051. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://tigo-actualiza-linea.info",fraudulento,real,R0018
+"[NOMBRE], recordarte que la cita para la firma de contrato es manana a las 10:00 en la oficina central.",legitimo,real,R0017
+"BCP BOLIVIA: Detectamos una vinculacion de dispositivo nuevo en su banca digital. Si usted no autorizo este acceso, comuniquese con nuestra central de monitoreo.",fraudulento,real,R0169
+BCP BOLIVIA: Se ha bloqueado preventivamente su tarjeta de debito por compra inusual de [MONTO] Verifique en: https://bcp-alerta-seguridad.xyz,fraudulento,real,R0124
+BANCO UNION: Su cuenta registramos un intento de ingreso sospechoso. Desbloquee sus accesos en: https://ingreso-bnb-banca.com,fraudulento,real,R0004
+Tu paquete con Nro de guia 549299 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0121
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 184052.",legitimo,real,R0141
+Atencion de Tigo Money: Le transferimos por error [MONTO] Ingrese a https://ingreso-bnb-banca.com para rechazar el pago o su cuenta sera congelada por la ASFI.,fraudulento,real,R0012
+BCP BOLIVIA: Detectamos un cambio en los parametros de seguridad de su token digital. Confirme si usted solicito la desvinculacion de su equipo anterior.,fraudulento,real,R0215
+BANCO ECONÓMICO: ¡Felicidades! Has ganado una entrada doble para la avant-premiere exclusiva por ser cliente activo de nuestra tarjeta de credito.,legitimo,real,R0210
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 424204.",legitimo,real,R0086
+Tu paquete con Nro de guia 132768 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0037
+BANCO UNION: Confirmamos el abono por planilla de sueldos correspondiente al periodo actual por [MONTO] Saldo disponible en cuenta.,legitimo,real,R0255
+"[NOMBRE], recordarte que la cita para la firma de contrato es manana a las 9:00 en la oficina central.",legitimo,real,R0017
+"ENTEL BOLIVIA: Codigo de verificacion 768477. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://att-bloqueo-bolivia.online",fraudulento,real,R0043
+MINISTERIO DE SALUD: Su certificado de vacunacion internacional presenta una inconsistencia en el lote registrado. Solicite la correccion en el portal oficial.,fraudulento,real,R0220
+"ENTEL: Estimado usuario, su plan corporativo cuenta con una actualizacion de beneficios acumulados disponible. Consulte las condiciones en nuestra web oficial.",fraudulento,real,R0151
+"ENTEL BOLIVIA: Codigo de verificacion 882137. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a https://att-bloqueo-bolivia.online",fraudulento,real,R0043
+YAPE BOLIVIA: Tienes un abono pendiente de aceptacion por [MONTO] Confirma tu cuenta aqui: https://att-bloqueo-bolivia.online,fraudulento,real,R0107
+BANCO SOL: Recordatorio de actualizacion anual de declaracion jurada de origen de fondos conforme a normativa ASFI vigente. Complete el formulario en banca web.,fraudulento,real,R0184
+IMPUESTOS NACIONALES: Tienes un embargo preventivo por deuda de [MONTO] Regulariza inmediatamente en: https://impuestos-bolivia-tramites.net,fraudulento,real,R0006
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 710434.",legitimo,real,R0109
+Tu codigo de verificacion para ingresar a Tigo Money es: 560753. Valido por 5 minutos.,legitimo,real,R0050
+Tu paquete con Nro de guia 549693 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0127
+BCP BOLIVIA: Informamos que los protocolos de validacion biometrica para operaciones de comercio exterior han sido modificados. Revise las nuevas directrices en su app.,legitimo,real,R0294
+"BANCO SOL: Estimado socio, le recordamos que la cuota de su credito solidario vence manana viernes sin excepcion en pasarelas habilitadas.",legitimo,real,R0304
+YAPE BOLIVIA: Tienes un abono pendiente de aceptacion por [MONTO] Confirma tu cuenta aqui: https://gestora-actualizacion-bo.site,fraudulento,real,R0107
+Tu paquete con Nro de guia 715849 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0047
+"Estimado cliente, por su seguridad hemos detectado actividad inusual en su banca movil. Por favor, comuniquese de inmediato con nuestra linea corporativa de atencion al cliente para verificar su identidad.",fraudulento,real,R0153
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 786523.",legitimo,real,R0085
+Tu paquete con Nro de guia 396173 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0034
+BANCO BISA: Su codigo OTP de verificacion es 265017 para transaccion en cajero sin tarjeta. Valido por 90 segundos.,legitimo,real,R0248
+Se comunica a la comunidad universitaria que las inscripciones de la UMSA inician este lunes a primera hora.,legitimo,real,R0011
+ENTEL: Su cuenta corporativa registra un ajuste tarifario aplicable desde el proximo ciclo de facturacion. Revise el documento informativo adjunto en su perfil de usuario.,fraudulento,real,R0162
+BANCO NACIONAL DE BOLIVIA: Se ha emitido un estado de cuenta rectificatorio por comisiones de mantenimiento. Revise el desglose en su banca en linea.,fraudulento,real,R0201
+BANCO UNION: Su codigo OTP de confirmacion para pago de servicios es 995787. Valido por 3 minutos. No lo comparta.,legitimo,real,R0257
+Atencion de Tigo Money: Le transferimos por error [MONTO] Ingrese a https://bcp-alerta-seguridad.xyz para rechazar el pago o su cuenta sera congelada por la ASFI.,fraudulento,real,R0115
+Tu paquete con Nro de guia 412828 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0096
+Atencion de Tigo Money: Le transferimos por error [MONTO] Ingrese a https://tigo-actualiza-linea.info para rechazar el pago o su cuenta sera congelada por la ASFI.,fraudulento,real,R0012
+BANCO FIE: Se ha programado la revision periodica de su perfil transaccional. Ingrese a la aplicacion movil para validar sus datos de actividad economica.,fraudulento,real,R0282
+BANCO GANADERO: Su solicitud de refinanciamiento de credito de vivienda ha sido aprobada en comite. Pase por su agencia para la firma de adenda.,legitimo,real,R0295
+Tu paquete con Nro de guia 557660 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0094
+Atencion de Tigo Money: Le transferimos por error [MONTO] Ingrese a https://att-bloqueo-bolivia.online para rechazar el pago o su cuenta sera congelada.,fraudulento,real,R0012
+"ENTEL BOLIVIA: Codigo de verificacion 482910. No lo comparta con nadie. Si usted no lo solicito, ingrese urgente a: https://tigo-actualiza-linea.info",fraudulento,real,R0018
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 144458.",legitimo,real,R0057
+MULTICINE: ¡Preventa habilitada! Asegura tus entradas para la funcion especial de este fin de semana desde nuestra aplicacion movil.,legitimo,real,R0263
+YAPE BOLIVIA: Tienes un abono pendiente de aceptacion por [MONTO] Confirma tu cuenta aqui: https://bancounion-verificacion-bo.site,fraudulento,real,R0107
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 749151.",legitimo,real,R0024
+"BANCO UNION: Su codigo de verificacion OTP es 915006. Valido por 3 minutos. Nunca comparta este codigo con ninguna persona, ni siquiera funcionarios.",legitimo,real,R0146
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 163835.",legitimo,real,R0076
+DELAPAZ: Aviso de mantenimiento preventivo de redes de distribucion electrica en su zona programado para este domingo por la manana.,legitimo,real,R0276
+Factura Entel: Su consumo del mes es de [MONTO] Cancele antes del 12 del mes a traves de su banca movil.,legitimo,real,R0007
+EPSAS: Comunicado de emergencia: Cuadrillas de reparacion atienden rotura de matriz en zona Sopocachi; el servicio se reanudara en la madrugada.,legitimo,real,R0245
+"BANCO GANADERO: Estimado socio, su linea de credito preferencial expira al finalizar el mes actual. Ingrese a la plataforma para confirmar su renovacion.",fraudulento,real,R0297
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 651689.",legitimo,real,R0062
+Tu codigo de verificacion para ingresar a Tigo Money es: 118852. Valido por 5 minutos.,legitimo,real,R0053
+Tu codigo de verificacion para ingresar a Tigo Money es: 419826. Valido por 5 minutos.,legitimo,real,R0110
+"Hola vecino, te mando el pago por QR de las compras de ayer, escanea e ingresa tus datos bancarios para confirmar el abono de [MONTO]: https://bancounion-verificacion-bo.site",fraudulento,real,R0008
+FEECH BOLIVIA: Invitacion oficial al foro nacional de comercio electronico y pasarelas de pago seguras con certificacion internacional.,fraudulento,real,R0249
+BANCO UNION: Codigo de autorizacion temporal para operacion QR: 785804. No lo divulgue por ningun motivo.,legitimo,real,R0158
+BANCO FIE: Su tarjeta de credito presenta un reporte de consumo en moneda extranjera pendiente de aprobacion o desconocimiento. Ingrese a la app para gestionar.,fraudulento,real,R0250
+BNB: Le informamos que el limite diario de sus transferencias interbancarias ha sido modificado por seguridad. Revise los parametros en su perfil.,fraudulento,real,R0183
+"Hola vecino, te mando el pago por QR de las compras de ayer, escanea e ingresa tus datos bancarios para confirmar el abono de [MONTO]: https://att-bloqueo-bolivia.online",fraudulento,real,R0008
+AUTORIDAD DE SUPERVISION DEL SISTEMA FINANCIERO: Recordatorio sobre la actualizacion del registro de beneficiarios finales para sociedades comerciales.,fraudulento,real,R0214
+FUNDACION PRODEM: Invitacion formal a participar en el programa de capacitacion ejecutiva en gestion financiera para pymes con aval internacional.,legitimo,real,R0278
+"ENTEL: Estimado cliente corporativo, su factura acumulada presenta un saldo vencido que requiere atencion para evitar restricciones parciales de salida.",fraudulento,real,R0235
+BANCO UNION: Codigo de autorizacion temporal para operacion QR: 592015. No lo divulgue por ningun motivo.,legitimo,real,R0158
+Tu paquete con Nro de guia 447254 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0055
+ENTEL: Te quedan 3.5 GB de tu paquete de navegacion. Evita interrupciones recargando desde *10/# o tu banca movil favorita.,legitimo,real,R0233
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 545523.",legitimo,real,R0045
+Tu codigo de verificacion para ingresar a Tigo Money es: 492077. Valido por 5 minutos.,legitimo,real,R0091
+BANCO UNION: Pago de servicios de agua EPSAS por [MONTO] debitado con exito de su cuenta corriente. Nro Operacion: 390033.,legitimo,real,R0286
+Atencion de Tigo Money: Le transferimos por error [MONTO] Ingrese a https://impuestos-bolivia-tramites.net para rechazar el pago o su cuenta sera congelada por la ASFI.,fraudulento,real,R0012
+"Estimado cliente de Banco Union, su transferencia por [MONTO] al destinatario [NOMBRE] fue procesada exitosamente. Nro Operacion: 670900.",legitimo,real,R0054
+SEDES LA PAZ: Se comunica al personal de salud que la habilitacion de credenciales para el sistema de vigilancia epidemiologica concluye hoy a las 16:00.,legitimo,real,R0209
+DHL Express: Su paquete internacional se encuentra en proceso de despacho aduanero ordinario. Verifique los requisitos de entrega.,fraudulento,real,R0149
+FARMACORP: ¡Aprovecha la recarga Club! Por compras mayores a [MONTO] hoy llevate el segundo producto seleccionado con 50% de descuento en sucursal.,legitimo,real,R0307
+YAPE BOLIVIA: Tu cuenta ha alcanzado el limite mensual de recepcion de transferencias QR. Valida tu identidad para ampliar el tope operativo.,fraudulento,real,R0179
+GAMLP: Su inmueble registra una actualizacion catastral pendiente de conformidad para el calculo del impuesto municipal de la gestion actual.,fraudulento,real,R0187
+BANCO UNION: En su cuenta registramos un intento de ingreso sospechoso. Desbloquee sus accesos en: https://impuestos-bolivia-tramites.net,fraudulento,real,R0004
+Tu codigo de verificacion para ingresar a Tigo Money es: 798563. Valido por 5 minutos.,legitimo,real,R0035
+Aviso institucional UMSA: La reunion de consejo facultativo programada para hoy queda suspendida hasta nuevo aviso por mantenimiento de infraestructura.,legitimo,real,R0144
+SERVIENTREGA: La guia de despacho registra una discrepancia en el peso volumetrico declarado. Ingrese al sistema para regularizar la diferencia.,fraudulento,real,R0260
+DELAPAZ: Aviso importante: Su proxima lectura de medidor electrico se realizara entre el 15 y el 18 del mes en curso. Mantenga el acceso libre.,legitimo,real,R0302
+BANCO UNION: En su cuenta registramos un intento de ingreso sospechoso. Desbloquee sus accesos en: https://bancounion-verificacion-bo.site,fraudulento,real,R0004
+Tu codigo de verificacion para ingresar a Tigo Money es: 635360. Valido por 5 minutos.,legitimo,real,R0049
+Factura Entel: Su consumo del mes es de [MONTO] Cancele antes del 14 del mes a traves de su banca movil.,legitimo,real,R0007
+"Estimado socio de BNB, le recordamos que la cuota de su credito vence este 22 del mes. Evite mora e intereses.",legitimo,real,R0026
+Factura Entel: Su consumo del mes es de [MONTO] Cancele antes del 25 del mes a traves de su banca movil.,legitimo,real,R0007
+Tu codigo de verificacion para ingresar a Tigo Money es: 198753. Valido por 5 minutos.,legitimo,real,R0102
+Tu paquete con Nro de guia 211579 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0090
+UPS BOLIVIA: La guia de embarque registra una inconsistencia dimensional que requiere aclaracion operativa previa a la entrega final.,fraudulento,real,R0227
+"Estimado socio de BNB, le recordamos que la cuota de su credito vence este 21 del mes. Evite mora e intereses.",legitimo,real,R0026
+UPS BOLIVIA: El manifiesto de carga de su encomienda postal registra un error tipografico en el codigo postal de destino. Actualice los datos.,fraudulento,real,R0312
+"Estimado socio de BNB, le recordamos que la cuota de su credito vence este 28 de agosto. Evite mora e intereses.",legitimo,real,R0026
+"TIGO MONEY: Se ha registrado una solicitud de asociacion de cuenta bancaria a su billetera movil. Si no reconoce esta accion, contacte a soporte.",fraudulento,real,R0182
+Tu paquete con Nro de guia 651991 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0074
+"Estimado socio de BNB, le recordamos que la cuota de su credito vence este 15 del mes. Evite mora e intereses.",legitimo,real,R0026
+Tu paquete con Nro de guia 851305 fue recibido en oficinas de Correos de Bolivia La Paz. Puedes recogerlo con tu CI.,legitimo,real,R0106
